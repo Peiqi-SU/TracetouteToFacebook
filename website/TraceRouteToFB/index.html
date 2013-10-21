@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100%; }
+      body { height: 100%; margin: 0; padding: 0 ; background-color: #4079a4;}
+      p{line-height: 15px; color: #74CEB7; font-size: small;} 
+
+      #menu {width: 250px; height: 100%; background-color: #000000; position: absolute; top: 0; left: 0; filter:alpha(opacity=80);-moz-opacity:0.8;opacity:0.8; -khtml-opacity: 0.8;}
+      #question {width: 200px; height: 20%; font-family: sans-serif; color: #74CEB7; text-align: left; margin-left: 25px; margin-top: -120px;}
+      #title-img{ }
+      #cities {width: 150%;  font-size: medium; font-family: sans-serif; color: #ffffff; text-align: left;margin-left: 25px;}
+      #map-canvas {width:100%; height: 100%; top: 0; left: 0;}
+      .btn {
+        border-style: solid;
+        border-width: 1px;
+        background-color: #000000;
+        text-indent:0;
+        display:inline-block;
+        color:#2C7B8B;
+        font-family:Verdana;
+        font-size:12px;
+        font-weight:normal;
+        font-style:normal;
+        height:20px;
+        line-height:14px;
+        text-decoration: underline;
+        text-align:center;
+        margin: 1px;
+      }
+      .btn:hover {
+        background-color:#C9FFD5;
+        color:#1C3F54;
+        text-shadow:1px 1px 0px #dddddd;
+      }
+      .btn:active {
+        position:relative;
+        top:1px;
+      }
+      
+    </style>
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBcB7QP4FWKNNN3EXBKB-deU_N_WmLWuLM&sensor=false">
+    </script>
+    <script type="text/javascript" src="js/traceRouteMpa.js"></script>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+    <div id="menu">
+      <div id="title-img"><img src="images/title.png"/></div>
+      <div id="question">
+        <p>Question:</p>
+        <p>Facebook is connecting millions of people in cyber space, while in the physical world, how these people's pages are connected by thousands of servers and routers?</p></div>
+      <div id="cities">
+        <!--
+        <p>ISP: Occurrences</p>
+        <p>Facebook Ireland Ltd: 191 &emsp; &emsp; | &emsp; &emsp; Facebook: 114 &emsp; &emsp; | &emsp; &emsp; Level 3 Communications: 57 &emsp; &emsp; | &emsp; &emsp; NTT America: 19</p>
+        <p>Amsterdam Internet Exchange B.V.: 10 &emsp; &emsp; | &emsp; &emsp; Hetzner Online AG: 8 &emsp; &emsp; | &emsp; &emsp; DANTE Ltd: 7 &emsp; &emsp; | &emsp; &emsp; Steadfast Networks: 7</p>
+        <p>Deutsche Telekom AG: 6 &emsp; &emsp; | &emsp; &emsp; ESnet: 6 &emsp; &emsp; | &emsp; &emsp; PT Indosat Tbk (www.indosat.com): 5 &emsp; &emsp; | &emsp; &emsp; Telstra Internet: 5 &emsp; &emsp; | &emsp; &emsp; NORDUnet: 5 &emsp; &emsp; | &emsp; &emsp; AT&T Services: 5</p>
+        -->
+        <SCRIPT LANGUAGE="JavaScript">
+          <!--
+          document.write(allBtns);
+          //-->
+        </SCRIPT>
+        <div id="citiesBtns">
+        <SCRIPT LANGUAGE="JavaScript">
+          <!--
+          /*cityBtns = [];
+          function initBtns(){
+            for (var i=0,len=markers.length; i<len; i++){
+              cityBtns.push("<button onclick=\"hideMarks()\">sdfsf</button>");
+            }
+          }
+          document.write(cityBtns.join(""));*/
+          //-->
+        </SCRIPT>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,953 @@
+Argentina
+ 1  bras (201.219.64.31)  6.070 ms  7.787 ms  9.296 ms
+ 2  201.219.64.246 (201.219.64.246)  2.776 ms  2.864 ms  2.726 ms
+ 3  192.168.50.58 (192.168.50.58)  12.863 ms  12.965 ms  12.601 ms
+ 4  xe-1-3-1.ar3.eze1.gblx.net (208.50.254.149)  13.081 ms  12.976 ms  12.845 ms
+ 5  ae2-30G.scr3.WDC2.gblx.net (67.16.166.186)  328.537 ms  324.288 ms ae2-30G.scr4.WDC2.gblx.net (67.16.166.162)  255.848 ms
+ 6  lag14.csr2.DCA3.gblx.net (67.16.166.250)  307.410 ms  304.674 ms lag3.csr2.DCA3.gblx.net (67.16.166.234)  292.439 ms
+ 7  FACEBOOK-INC.ethernet12-1.csr1.DCA3.gblx.net (64.215.81.234)  260.698 ms  259.081 ms  260.091 ms
+ 8  ae11.bb01.iad1.tfbnw.net (74.119.78.68)  258.950 ms  272.330 ms  257.823 ms
+ 9  ae8.bb01.frc1.tfbnw.net (31.13.24.32)  182.369 ms  181.370 ms  181.010 ms
+10  ae1.dr01.frc1.tfbnw.net (31.13.24.15)  326.053 ms ae1.dr02.frc1.tfbnw.net (31.13.24.19)  336.386 ms ae1.dr03.frc1.tfbnw.net (31.13.27.76)  312.675 ms
+11  * * *
+12  * * *
+13  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  302.851 ms  302.549 ms  302.675 ms
+
+Australia
+1  gigabitethernet3-3.exi1.melbourne.telstra.net (203.50.77.49)  0.315 ms  0.278 ms  0.238 ms
+ 2  bundle-ether3.exi-core1.melbourne.telstra.net (203.50.80.1)  3.862 ms  3.420 ms  3.987 ms
+ 3  bundle-ether12.chw-core2.sydney.telstra.net (203.50.11.74)  18.607 ms  15.035 ms  15.860 ms
+ 4  bundle-ether1.oxf-gw2.sydney.telstra.net (203.50.6.90)  17.733 ms  17.874 ms  16.107 ms
+ 5  203.50.13.134 (203.50.13.134)  16.859 ms  19.038 ms  15.986 ms
+ 6  i-0-6-0-6.sydo-core02.bi.telstraglobal.net (202.84.223.38)  18.610 ms  15.418 ms  16.110 ms
+ 7  i-0-2-0-4.1wlt-core01.bx.telstraglobal.net (202.84.249.54)  160.777 ms  159.334 ms  159.902 ms
+ 8  i-0-0-0-0.tlot02.bi.telstraglobal.net (202.40.149.142)  182.261 ms  157.585 ms  157.653 ms
+ 9  xe-1-3-1.pr01.lax1.tfbnw.net (103.4.96.49)  157.152 ms  157.208 ms  157.155 ms
+10  ae1.bb02.lax1.tfbnw.net (31.13.30.26)  157.403 ms
+11  ae13.bb02.atl1.tfbnw.net (31.13.28.111)  210.870 ms  206.803 ms  206.874 ms
+12  ae7.bb02.frc1.tfbnw.net (31.13.24.44)  212.748 ms
+13  ae2.dr03.frc1.tfbnw.net (31.13.27.78)  211.424 ms
+	
+Austria
+ 1  2ms    static.33.62.76.144.clients.your-server.de [144.76.62.33]
+ 2  0ms    hos-tr2.juniper4.rz19.hetzner.de [213.239.243.225]
+ 3  0ms    core22.hetzner.de [213.239.245.149]
+ 4  5ms    213-239-245-177.clients.your-server.de [213.239.245.177]
+ 5  4ms    juniper1.ffm.hetzner.de [213.239.245.5]
+ 6  5ms    ae1.br01.fra1.tfbnw.net [80.81.194.40]
+ 7  24ms   ae0.pr01.fra2.tfbnw.net [31.13.27.203]
+ 8  15ms   ae8.bb02.cdg1.tfbnw.net [74.119.78.118]
+ 9  86ms   ae7.bb01.lga1.tfbnw.net [31.13.30.92]
+10  95ms   ae19.bb02.iad2.tfbnw.net [31.13.25.71]
+11  110ms  ae9.bb04.frc1.tfbnw.net [31.13.24.86]
+12  102ms  ae4.dr04.frc1.tfbnw.net [31.13.27.73]
+13   *     Request timed out.
+14   *     Request timed out.
+15  101ms  edge-star-shv-13-frc1.facebook.com [173.252.110.27]
+
+Belarus
+ 1  10.1.216.240 (10.1.216.240)  0.100 ms  0.059 ms  0.036 ms
+ 2  10g.datacenter.beltelecom.by (178.124.134.50)  0.609 ms  0.674 ms  0.594 ms
+ 3  gi8-1-0.ne1-1-2.net.belpak.by (93.84.125.166)  2.544 ms  2.945 ms  3.152 ms
+ 4  93.84.125.38 (93.84.125.38)  4.193 ms  4.158 ms  3.198 ms
+ 5  ie1.net.belpak.by (93.85.80.38)  4.372 ms  4.424 ms  4.353 ms
+ 6  asbr3.net.belpak.by (93.85.80.74)  1.125 ms  1.131 ms  1.066 ms
+ 7  80.232.190.253 (80.232.190.253)  24.204 ms  24.102 ms  24.004 ms
+ 8  br01.ams1.tfbnw.net (195.69.145.115)  48.222 ms  48.302 ms  48.170 ms
+ 9  ae1.bb02.ams2.tfbnw.net (31.13.29.90)  50.087 ms ae1.bb01.ams2.tfbnw.net (31.13.29.86)  49.048 ms ae1.bb02.ams2.tfbnw.net (31.13.29.90)  49.555 ms
+10  ae3.bb02.lhr2.tfbnw.net (31.13.30.131)  66.847 ms ae3.bb01.lhr2.tfbnw.net (31.13.30.99)  66.992 ms ae10.bb02.lhr2.tfbnw.net (74.119.78.225)  65.644 ms
+11  be5.bb02.dca1.tfbnw.net (31.13.30.236)  150.377 ms be5.bb01.dca1.tfbnw.net (31.13.31.2)  150.741 ms  149.536 ms
+12  ae13.bb04.frc1.tfbnw.net (204.15.20.75)  157.640 ms ae13.bb03.frc1.tfbnw.net (31.13.31.249)  154.528 ms ae13.bb04.frc1.tfbnw.net (204.15.20.75)  164.981 ms
+13  ae3.dr03.frc1.tfbnw.net (31.13.27.59)  156.216 ms ae2.dr04.frc1.tfbnw.net (31.13.27.82)  156.278 ms ae39.dr02.frc1.tfbnw.net (31.13.27.57)  156.470 ms
+14  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  149.533 ms  149.922 ms  149.611 ms
+
+Belgium
+ 1  gw33-a.rack66.net (85.88.33.1)  0.471 ms  0.528 ms  0.566 ms
+ 2  212.3.238.85 (212.3.238.85)  0.207 ms  0.216 ms  0.212 ms
+ 3  ae-0-11.bar2.Brussels1.Level3.net (4.69.148.178)  0.468 ms  0.474 ms  0.462 ms
+ 4  ae-7-7.ebr1.London1.Level3.net (4.69.148.182)  82.187 ms  81.118 ms  82.200 ms
+ 5  vlan101.ebr2.London1.Level3.net (4.69.143.86)  79.418 ms vlan104.ebr2.London1.Level3.net (4.69.143.98)  79.561 ms vlan101.ebr2.London1.Level3.net (4.69.143.86)  79.408 ms
+ 6  ae-42-42.ebr1.NewYork1.Level3.net (4.69.137.70)  79.279 ms ae-43-43.ebr1.NewYork1.Level3.net (4.69.137.74)  79.438 ms  79.488 ms
+ 7  4.69.201.62 (4.69.201.62)  80.021 ms 4.69.201.70 (4.69.201.70)  79.534 ms 4.69.201.62 (4.69.201.62)  81.876 ms
+ 8  4.69.132.89 (4.69.132.89)  79.194 ms ae-5-5.ebr2.Washington1.Level3.net (4.69.143.221)  79.761 ms 4.69.201.93 (4.69.201.93)  79.344 ms
+ 9  ae-62-62.csw1.Washington1.Level3.net (4.69.134.146)  80.575 ms ae-92-92.csw4.Washington1.Level3.net (4.69.134.158)  79.459 ms ae-62-62.csw1.Washington1.Level3.net (4.69.134.146)  80.581 ms
+10  ae-3-80.edge3.Washington4.Level3.net (4.69.149.146)  79.682 ms  79.512 ms  79.366 ms
+11  FACEBOOK-IN.edge3.Washington4.Level3.net (4.53.116.78)  79.813 ms  79.442 ms  79.274 ms
+12  ae1.bb01.iad2.tfbnw.net (204.15.20.54)  79.854 ms  79.852 ms ae1.bb02.iad2.tfbnw.net (74.119.77.146)  79.997 ms
+13  ae9.bb04.frc1.tfbnw.net (31.13.24.86)  94.448 ms ae4.bb01.frc1.tfbnw.net (31.13.24.24)  94.359 ms ae9.bb04.frc1.tfbnw.net (31.13.24.86)  93.893 ms
+14  ae2.dr02.frc1.tfbnw.net (31.13.24.21)  93.540 ms ae1.dr03.frc1.tfbnw.net (31.13.27.76)  90.082 ms ae2.dr02.frc1.tfbnw.net (31.13.24.21)  92.546 ms
+15  * * *
+16  * * *
+17  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  92.731 ms  89.238 ms  89.264 ms
+
+Bolivia
+ 1  Router-fibra-Nodo-SanchezLima.MegaLink.com (200.75.160.7)  1 ms  1 ms  0 ms
+ 2  BorderBGP.MegaLink.com (200.75.160.1)  2 ms static-200-105-135-241.acelerate.net (200.105.135.241)  5 ms  2 ms
+ 3  static-200-105-128-3.acelerate.com (200.105.128.3)  4 ms  3 ms  3 ms
+ 4  5.53.1.49 (5.53.1.49)  84 ms  85 ms  84 ms
+ 5  Xe8-1-6-0-grtmiabr3.red.telefonica-wholesale.net (94.142.127.154)  85 ms (TOS=32!) Te0-9-0-9-grtmiabr6.red.telefonica-wholesale.net (84.16.14.18)  87 ms  85 ms
+ 6  Xe4-0-3-0-grtmiana2.red.telefonica-wholesale.net (94.142.122.253)  106 ms Xe5-1-8-0-grtmiana2.red.telefonica-wholesale.net (213.140.36.89)  85 ms *
+ 7  5.53.1.58 (5.53.1.58)  86 ms  85 ms  106 ms
+ 8  ae37.bb01.iad2.tfbnw.net (204.15.20.238) [MPLS: Label 770940 Exp 2]  114 ms ae7.bb02.atl1.tfbnw.net (204.15.23.252) [MPLS: Label 712413 Exp 2]  128 ms [MPLS: Label 718493 Exp 2]  128 ms
+ 9  ae8.bb01.frc1.tfbnw.net (31.13.24.32) [MPLS: Label 469689 Exp 2]  127 ms ae7.bb01.frc1.tfbnw.net (31.13.24.30) [MPLS: Label 449033 Exp 2]  116 ms ae11.bb03.frc1.tfbnw.net (31.13.27.120) [MPLS: Label 419639 Exp 2]  118 ms
+10  ae1.dr04.frc1.tfbnw.net (31.13.27.80)  114 ms (TOS=64!) ae3.dr04.frc1.tfbnw.net (31.13.27.61)  124 ms ae3.dr03.frc1.tfbnw.net (31.13.27.59)  116 ms
+11  * * *
+12  * * *
+13  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  123 ms  126 ms  116 ms
+
+Brasil
+ 3  200.145.255.2 (200.145.255.2)  0.851 ms  0.766 ms  0.732 ms
+ 4  mxrj-dep-1g-int.bkb.rnp.br (200.143.255.49)  1.633 ms  1.881 ms  1.934 ms
+ 5  as32934.sp.ptt.br (187.16.218.82)  2.347 ms  2.227 ms  2.317 ms
+ 6  ae37.bb02.iad1.tfbnw.net (204.15.22.110)  140.573 ms  140.374 ms  140.480 ms
+ 7  ae8.bb04.frc1.tfbnw.net (31.13.24.95)  158.749 ms  158.780 ms ae8.bb02.frc1.tfbnw.net (31.13.24.46)  158.234 ms
+ 8  ae2.dr03.frc1.tfbnw.net (31.13.27.78)  158.333 ms ae40.dr01.frc1.tfbnw.net (31.13.27.67)  145.932 ms ae40.dr02.frc1.tfbnw.net (31.13.27.69)  145.327 ms
+ 9  * * *
+10  * * *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  143.338 ms  143.735 ms  143.140 ms
+
+Bulgaria
+ 1  205.185.112.144 (205.185.112.144)  0.077 ms  0.028 ms  0.023 ms
+ 2  10.1.1.5 (10.1.1.5)  0.457 ms  0.494 ms  0.422 ms
+ 3  te3-4.core1.las1.fiberhub.net (199.47.208.9)  0.466 ms  0.430 ms  0.704 ms
+ 4  10gigabitethernet3-2.core1.las1.he.net (64.62.249.89)  0.420 ms  0.520 ms  0.436 ms
+ 5  10gigabitethernet15-4.core1.lax2.he.net (184.105.222.161)  9.834 ms  9.756 ms  9.639 ms
+ 6  facebook.com.any2ix.coresite.com (206.223.143.161)  15.838 ms  15.717 ms  15.697 ms
+ 7  ae1.bb02.lax1.tfbnw.net (31.13.30.26)  16.036 ms  15.870 ms ae1.bb01.lax1.tfbnw.net (31.13.30.24)  15.912 ms
+ 8  ae13.bb02.atl1.tfbnw.net (31.13.28.111)  68.514 ms  66.419 ms  66.626 ms
+ 9  ae7.bb02.frc1.tfbnw.net (31.13.24.44)  71.304 ms ae10.bb03.frc1.tfbnw.net (31.13.27.110)  72.238 ms ae16.bb01.frc1.tfbnw.net (31.13.27.118)  71.083 ms
+10  ae2.dr04.frc1.tfbnw.net (31.13.27.82)  66.350 ms ae1.dr04.frc1.tfbnw.net (31.13.27.80)  68.094 ms ae3.dr03.frc1.tfbnw.net (31.13.27.59)  68.565 ms
+11  * * *
+12  * * *
+13  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  68.654 ms  66.041 ms  68.456 ms
+
+Canada
+ 1  208-93-233-1.mdswireless.com (208.93.233.1)  0.482 ms (255)
+ 2  74.122.129.1 (74.122.129.1)  0.444 ms (254)
+ 3  g0-0-0-2-br01-vau1.datacenterscanada.com (199.7.239.72)  0.727 ms (253)
+ 4  te0-0-0-0-br02-vau1.datacenterscanada.com (199.7.239.65)  0.773 ms (253)
+ 5  unassigned-41.165.14.72.net.blink.ca (72.14.165.41)  2.104 ms (251)
+ 6  unallocated-static.rogers.com (69.17.187.189)  24.355 ms (60)
+ 7  69.63.251.1 (69.63.251.1)  3.114 ms (250)
+ 8  24.156.156.245 (24.156.156.245)  5.187 ms (249)
+ 9  69.63.253.142 (69.63.253.142)  18.503 ms (248)
+10  dc5.pr01.iad2.tfbnw.net (206.126.236.191)  22.174 ms (242)
+11  ae1.bb02.iad2.tfbnw.net (74.119.77.146)  22.855 ms (242)
+12  ae9.bb04.frc1.tfbnw.net (31.13.24.86)  43.121 ms (239)
+13  ae4.dr04.frc1.tfbnw.net (31.13.27.73)  33.385 ms (242)
+14  *
+15  *
+16  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  32.62 ms (80)
+
+Canada
+1 	  0 	  0 	  0 	     206.123.64.46	   -  
+2 	  Timed out 	  Timed out 	  0 	     173.219.246.92	  173-219-246-92-link.sta.suddenlink.net  
+3 	  Timed out 	  Timed out 	  Timed out 	    	   -  
+4 	  54 	  52 	  53 	     204.15.21.50	  ae18.bb01.atl1.tfbnw.net  
+5 	  48 	  44 	  47 	     31.13.27.110	  ae10.bb03.frc1.tfbnw.net  
+6 	  40 	  40 	  40 	     31.13.27.59	  ae3.dr03.frc1.tfbnw.net  
+7 	  Timed out 	  Timed out 	  Timed out 	    	   -  
+8 	  Timed out 	  Timed out 	  Timed out 	    	   -  
+9 	  40 	  39 	  40 	     173.252.110.27	  edge-star-shv-13-frc1.facebook.com
+
+Chile
+1  200.27.2.3 (200.27.2.3)  0.563 ms  0.353 ms  0.234 ms
+ 2  10.20.11.17 (10.20.11.17)  0.918 ms  0.658 ms  0.459 ms
+ 3  200.27.5.58 (200.27.5.58)  0.735 ms  0.731 ms  0.682 ms
+ 4  200.27.5.237 (200.27.5.237)  0.993 ms  0.734 ms  0.729 ms
+ 5  Ge1.ad3-1.Santiago.ip.telmexchile.cl (200.27.5.194)  0.669 ms  0.868 ms  0.756 ms
+ 6  190.208.9.9 (190.208.9.9)  1.439 ms  1.628 ms  1.479 ms
+ 7  190.208.9.6 (190.208.9.6)  2.689 ms  2.177 ms  1.932 ms
+ 8  xe-0-7-0-22.r04.miamfl02.us.bb.gin.ntt.net (129.250.198.213)  101.556 ms  99.406 ms  100.061 ms
+ 9  ae-3.r21.miamfl02.us.bb.gin.ntt.net (129.250.4.250)  104.000 ms  107.792 ms  99.840 ms
+10  ae-5.r03.atlnga05.us.bb.gin.ntt.net (129.250.3.105)  119.220 ms  119.919 ms  122.094 ms
+11  ae-1.facebook.atlnga05.us.bb.gin.ntt.net (204.2.241.114)  114.276 ms  116.480 ms  113.800 ms
+12  ae1.bb02.atl1.tfbnw.net (204.15.23.208)  116.935 ms  160.719 ms  113.403 ms
+13  ae16.bb01.frc1.tfbnw.net (31.13.27.118)  120.537 ms ae7.bb02.frc1.tfbnw.net (31.13.24.44)  139.628 ms ae11.bb03.frc1.tfbnw.net (31.13.27.120)  122.496 ms
+14  ae1.dr02.frc1.tfbnw.net (31.13.24.19)  131.531 ms ae1.dr04.frc1.tfbnw.net (31.13.27.80)  133.202 ms ae3.dr03.frc1.tfbnw.net (31.13.27.59)  142.562 ms
+15  * * *
+
+China
+1	182.50.8.1	 	Beijing	5ms
+2	121.101.208.133	 	Beijing	0ms
+3	121.101.208.13	 	Beijing	2ms
+4	* * *
+5	61.148.157.45	 	Beijing	3ms
+6	124.65.59.121	 	Beijing	2ms
+7	124.65.194.37	 	Beijing	17ms
+8	219.158.97.202	 	Beijing	3ms
+9	* * *
+10	* * *
+11	* * *
+
+China
+ 1  gw (202.38.128.2)  0.368 ms  0.174 ms  0.242 ms
+ 2  202.122.36.1 (202.122.36.1)  0.740 ms  0.655 ms  0.652 ms
+ 3  192.168.1.25 (192.168.1.25)  0.599 ms  0.508 ms  0.509 ms
+ 4  8.131 (159.226.253.77)  0.530 ms  0.491 ms  0.528 ms
+ 5  8.198 (159.226.253.54)  22.952 ms  0.766 ms  0.743 ms
+ 6  * * *
+ 7  * * *
+ 8  * *
+
+Czech Republic
+ 1  ceskytesin3-gw2.silesnet.net (78.157.167.1) [AS43709]  7.207 ms  7.982 ms  8.712 ms
+ 2  ceskytesin-gw.silesnet.net (78.157.167.65) [AS43709]  1.402 ms  7.579 ms  7.663 ms
+ 3  cz-prg-asbr2-te1-2-v1517-dial.dialtelecom.cz (82.113.38.105) [AS29208]  20.051 ms  20.205 ms *
+ 4  cz-prg-76kkk-te2-1.dialtelecom.cz (82.119.246.25) [AS29208]  14.806 ms  14.801 ms  14.794 ms
+ 5  cz-prg-p1sit-be2.dialtelecom.cz (82.119.245.97) [AS29208]  16.001 ms  15.995 ms  15.986 ms
+ 6  de-ffm-asbr3-be2-dialtelecom.cz (82.119.245.186) [AS29208]  15.097 ms  14.837 ms  15.361 ms
+ 7  ae1.br01.fra1.tfbnw.net (80.81.194.40) [AS6695]  15.751 ms  15.740 ms  15.719 ms
+ 8  ae1.bb01.fra2.tfbnw.net (31.13.27.203) [AS32934]  15.703 ms ae1.bb02.fra2.tfbnw.net (31.13.27.205) [AS32934]  15.678 ms  15.658 ms
+ 9  ae4.bb01.cdg1.tfbnw.net (31.13.28.25) [AS32934]  29.860 ms ae4.bb02.cdg1.tfbnw.net (31.13.30.2) [AS32934]  29.839 ms ae8.bb01.cdg1.tfbnw.net (74.119.78.112) [AS32934]  29.100 ms
+10  ae7.bb01.lga1.tfbnw.net (31.13.30.92) [AS32934]  98.661 ms  99.101 ms  99.707 ms
+11  ae9.bb02.iad1.tfbnw.net (31.13.25.73) [AS32934]  101.746 ms ae19.bb02.iad2.tfbnw.net (31.13.25.71) [AS32934]  101.729 ms ae9.bb02.iad1.tfbnw.net (31.13.25.73) [AS32934]  102.357 ms
+12  ae8.bb01.frc1.tfbnw.net (31.13.24.32) [AS32934]  116.270 ms ae8.bb02.frc1.tfbnw.net (31.13.24.46) [AS32934]  117.441 ms  119.442 ms
+13  ae1.dr01.frc1.tfbnw.net (31.13.24.15) [AS32934]  112.111 ms ae4.dr03.frc1.tfbnw.net (31.13.27.71) [AS32934]  111.747 ms ae1.dr01.frc1.tfbnw.net (31.13.24.15) [AS32934]  111.299 ms
+14  * * *
+15  * * *
+16  edge-star-shv-13-frc1.facebook.com (173.252.110.27) [AS32934]  111.202 ms  112.705 ms  112.024 ms
+16  edge-star-shv-13-frc1.facebook.com (173.252.110.27) [AS32934]  111.202 ms  112.705 ms  112.024 ms
+
+Denmark
+1  ve4002.albcr1.ip.cxnet.dk (87.72.98.17)  0.408 ms (64)  0.279 ms (64)  0.297 ms (64) (0% loss)
+ 2  ve4023.albcr2.ip.cxnet.dk (87.72.99.97)  0.395 ms (63)  0.293 ms (63)  0.300 ms (63) (0% loss)
+ 3  br01.ams1.tfbnw.net (195.69.145.115)  12.108 ms (253)  12.264 ms (253)  12.423 ms (253) (0% loss)
+ 4  ae2.bb02.ams2.tfbnw.net (31.13.29.92)  12.565 ms (252)  13.47 ms (252)  12.734 ms (252) (0% loss)
+ 5  ae3.bb02.lhr2.tfbnw.net (31.13.30.131)  50.315 ms (249)  42.848 ms (249)  20.535 ms (249) (0% loss)
+ 6  be5.bb02.dca1.tfbnw.net (31.13.30.236)  107.727 ms (246)  107.275 ms (246)  108.53 ms (246) (0% loss)
+ 7  ae13.bb04.frc1.tfbnw.net (204.15.20.75)  112.875 ms (245)  112.735 ms (245) ae9.bb02.frc1.tfbnw.net (31.13.31.235)  114.761 ms (245) (0% loss)
+ 8  ae1.dr04.frc1.tfbnw.net (31.13.27.80)  106.559 ms (248) ae1.dr02.frc1.tfbnw.net (31.13.24.19)  106.669 ms (248) ae4.dr03.frc1.tfbnw.net (31.13.27.71)  106.646 ms (248) (0% loss)
+ 9  * * * (100% loss)
+10  * * * (100% loss)
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  107.279 ms (86)  106.964 ms (86)  107.319 ms (86) (0% loss)
+
+Faroe Islands
+ 1  default-gw-T1.internet.fo (212.55.32.7)  2.044 ms  1.670 ms  0.368 ms
+ 2  Te-1-2.Core-T1.internet.fo (212.55.63.105)  0.397 ms  0.342 ms  0.317 ms
+ 3  Gi-1-2.BGP-T1.internet.fo (212.55.63.77)  0.339 ms  0.323 ms  0.316 ms
+ 4  Gi-5-2.Utl-T1.internet.fo (212.55.63.65)  0.342 ms  0.340 ms  0.335 ms
+ 5  ge-2-2-7-593.banqe10.dk.ip.tdc.net (62.242.207.185)  32.145 ms  102.233 ms  32.148 ms
+ 6  ae0-0.ldn4nqp1.uk.ip.tdc.net (83.88.25.27)  42.764 ms  42.791 ms  46.563 ms
+ 7  linx.br01.lhr1.tfbnw.net (195.66.225.69)  54.641 ms  43.184 ms  43.186 ms
+ 8  ae1.bb02.lhr2.tfbnw.net (31.13.30.198)  43.318 ms  43.344 ms ae1.bb01.lhr2.tfbnw.net (31.13.30.174)  43.374 ms
+ 9  be5.bb01.dca1.tfbnw.net (31.13.31.2)  129.100 ms  129.057 ms  128.518 ms
+10  ae13.bb03.frc1.tfbnw.net (31.13.31.249)  153.104 ms ae13.bb04.frc1.tfbnw.net (204.15.20.75)  155.572 ms ae13.bb03.frc1.tfbnw.net (31.13.31.249)  153.017 ms
+11  ae3.dr03.frc1.tfbnw.net (31.13.27.59)  127.937 ms ae3.dr04.frc1.tfbnw.net (31.13.27.61)  128.628 ms ae40.dr02.frc1.tfbnw.net (31.13.27.69)  128.028 ms
+12  * * *
+13  * * *
+14  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  128.796 ms  128.562 ms  128.609 ms
+
+Finland
+ 1  csc3-ge-11-3-0-0-funet-maint-a.funet.fi (193.166.4.254)  0.169 ms  0.190 ms  0.185 ms
+ 2  helsinki6-xe-10-1-0-0-csc-b.funet.fi (193.166.187.185)  0.639 ms  0.680 ms  0.676 ms
+ 3  se-tug.nordu.net (109.105.102.61)  7.332 ms  7.373 ms  7.372 ms
+ 4  dk-uni.nordu.net (109.105.97.10)  23.304 ms  23.346 ms  23.347 ms
+ 5  nl-sar.nordu.net (109.105.97.117)  36.292 ms  36.332 ms  36.331 ms
+ 6  br01.ams1.tfbnw.net (195.69.145.115)  32.401 ms  83.094 ms  82.548 ms
+ 7  ae1.bb02.ams2.tfbnw.net (31.13.29.90)  32.685 ms ae1.bb01.ams2.tfbnw.net (31.13.29.86)  32.992 ms ae1.bb02.ams2.tfbnw.net (31.13.29.90)  32.756 ms
+ 8  ae3.bb01.lhr2.tfbnw.net (31.13.30.99)  51.554 ms ae8.bb01.lhr2.tfbnw.net (74.119.78.231)  43.557 ms ae3.bb02.lhr2.tfbnw.net (31.13.30.131)  48.982 ms
+ 9  be5.bb02.dca1.tfbnw.net (31.13.30.236)  126.268 ms be5.bb01.dca1.tfbnw.net (31.13.31.2)  126.070 ms  126.120 ms
+10  ae9.bb02.frc1.tfbnw.net (31.13.31.235)  129.897 ms ae13.bb03.frc1.tfbnw.net (31.13.31.249)  133.208 ms ae13.bb04.frc1.tfbnw.net (204.15.20.75)  133.155 ms
+11  ae3.dr03.frc1.tfbnw.net (31.13.27.59)  125.780 ms ae4.dr03.frc1.tfbnw.net (31.13.27.71)  125.794 ms ae39.dr01.frc1.tfbnw.net (31.13.27.55)  130.214 ms
+12  * * *
+13  * * *
+14  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  125.980 ms  125.528 ms  125.944 ms
+
+France
+1	wblindix.sdv.fr      	212.95.66.126      	0.507 ms
+2	border-gateway1.sdv.fr      	212.95.69.226      	0.665 ms
+3	bgw2-po10.sdv.fr      	212.95.64.58      	0.947 ms
+4	46.255.176.86      	46.255.176.86      	0.703 ms
+5	xe0-0-2.vtl.ncy.as8218.eu      	83.167.55.118      	7.634 ms
+6	ge3-0-0.ter1.swad.nyc.as8218.eu      	83.167.56.159      	7.487 ms
+7	xe10-1-1.tcr1.th2.par.as8218.eu      	83.167.55.116      	7.533 ms
+8	37.49.236.174      	37.49.236.174      	8.442 ms
+9	ae1.bb01.cdg1.tfbnw.net      	204.15.22.194      	8.496 ms
+10	ae6.bb01.lga1.tfbnw.net      	204.15.23.17      	79.575 ms
+11	ae18.bb01.iad1.tfbnw.net      	204.15.20.128      	85.857 ms
+12	ae8.bb01.frc1.tfbnw.net      	31.13.24.32      	99.856 ms
+13	ae1.dr03.frc1.tfbnw.net      	31.13.27.76      	95.621 ms
+16	edge-star-shv-13-frc1.facebook.com      	173.252.110.27      	95.313 ms
+
+France
+  1    <1 ms    <1 ms    <1 ms  172.24.131.1 
+  2    <1 ms    <1 ms    <1 ms  . [46.19.176.193] 
+  3    <1 ms    <1 ms    <1 ms  r1-v50-r7a-ix1.int.linkbynet.com [217.19.56.31] 
+  4     8 ms    <1 ms    <1 ms  gi9-6.parse4.aubervilliers.opentransit.net [193.251.250.225] 
+  5     1 ms     3 ms     3 ms  tengige1-0-0-6.pastr1.paris.opentransit.net [193.251.132.102] 
+  6     4 ms     1 ms     1 ms  facebook-2.gw.opentransit.net [193.251.252.238] 
+  7     1 ms     1 ms     1 ms  ae2.bb02.cdg1.tfbnw.net [204.15.23.14] 
+  8    78 ms    79 ms    78 ms  ae7.bb01.lga1.tfbnw.net [31.13.30.92] 
+  9    85 ms    79 ms    79 ms  ae9.bb02.iad1.tfbnw.net [31.13.25.73] 
+ 10    94 ms    94 ms    94 ms  ae8.bb04.frc1.tfbnw.net [31.13.24.95] 
+ 11    94 ms    93 ms   141 ms  ae4.dr04.frc1.tfbnw.net [31.13.27.73] 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14    88 ms    88 ms    88 ms  edge-star-shv-13-frc1.facebook.com [173.252.110.27] 
+
+Germany
+ 1  * * *
+ 2  xe-1-0-0.dr-slave.r2.cgn3.he-core.de (176.28.4.58)  0.783 ms  0.762 ms  0.740 ms
+ 3  xe-3-2-0.cr-nashira.cgn4.he-core.de (176.28.4.73)  0.249 ms  0.236 ms  0.241 ms
+ 4  d-ec2.d.de.net.dtag.de (217.243.217.253)  0.893 ms  0.878 ms  0.857 ms
+ 5  f-ed5-i.F.DE.NET.DTAG.DE (217.5.95.62)  5.834 ms  5.818 ms  5.796 ms
+ 6  80.157.128.166 (80.157.128.166)  5.596 ms  5.518 ms  5.490 ms
+ 7  ae1.bb01.fra2.tfbnw.net (31.13.27.203)  5.958 ms  5.582 ms  5.589 ms
+ 8  ae4.bb01.cdg1.tfbnw.net (31.13.28.25)  15.119 ms  15.603 ms ae8.bb01.cdg1.tfbnw.net (74.119.78.112)  14.873 ms
+ 9  ae6.bb01.lga1.tfbnw.net (204.15.23.17)  87.875 ms  87.209 ms  87.688 ms
+10  ae18.bb01.iad1.tfbnw.net (204.15.20.128)  95.087 ms ae19.bb02.iad2.tfbnw.net (31.13.25.71)  88.549 ms ae18.bb01.iad1.tfbnw.net (204.15.20.128)  95.034 ms
+11  ae9.bb04.frc1.tfbnw.net (31.13.24.86)  140.925 ms ae8.bb03.frc1.tfbnw.net (31.13.24.88)  153.706 ms ae9.bb04.frc1.tfbnw.net (31.13.24.86)  113.697 ms
+12  ae40.dr01.frc1.tfbnw.net (31.13.27.67)  99.022 ms ae1.dr02.frc1.tfbnw.net (31.13.24.19)  98.802 ms ae40.dr01.frc1.tfbnw.net (31.13.27.67)  106.383 ms
+13  * * *
+14  * * *
+15  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  104.906 ms  104.752 ms  104.941 ms
+
+Germany
+1	 	 	 	*	*	*
+2	hos-tr3.juniper2.rz13.hetzner.de	213.239.224.65	de	0.149 ms	 	 
+3	core22.hetzner.de	213.239.245.121	 de	0.698 ms	0.706 ms	 
+4	core1.hetzner.de	213.239.245.177	 de	4.820 ms	 	 
+5	juniper1.ffm.hetzner.de	213.239.245.5	de	4.941 ms	4.968 ms	4.936 ms
+6	 ae1.br01.fra1.tfbnw.net	80.81.194.40	de	5.059 ms
+7	ae1.bb01.fra2.tfbnw.net	31.13.27.203	ie	15.241 ms	 	 
+8	ae8.bb01.cdg1.tfbnw.net	74.119.78.112	us	15.733 ms
+9	ae7.bb01.lga1.tfbnw.net	31.13.30.92	ie	119.691 ms	 	 
+10	ae18.bb01.iad1.tfbnw.net	204.15.20.128	us	110.083 ms	 	 
+11	ae18.bb01.iad1.tfbnw.net	204.15.20.128	us	110.050 ms	 	 
+12	ae40.dr02.frc1.tfbnw.net	31.13.27.69	ie	103.219 ms	 
+13	ae40.dr01.frc1.tfbnw.net	31.13.27.67	ie	101.095 ms	 	 
+14	 	 	 	*	*	*
+15	edge-star-shv-13-frc1.facebook.com	173.252.110.27	us	102.398 ms	102.067 ms	102.667 ms
+
+Greece
+ 1  * warp-srv.noc.ntua.gr (147.102.222.200)  0.392 ms *
+ 2  ntua-zogr-4-gw.koletti-1.access-link.grnet.gr (194.177.209.117)  0.406 ms  0.383 ms  0.368 ms
+ 3  eie2-to-kol1.backbone.grnet.gr (195.251.27.54)  0.489 ms  0.486 ms  0.510 ms
+ 4  grnet.mx2.ath.gr.geant.net (62.40.124.89)  0.563 ms  0.557 ms  0.562 ms
+ 5  ae2.rt1.vie.at.geant.net (62.40.112.165)  41.153 ms  41.145 ms  41.154 ms
+ 6  ae4.mx1.vie.at.geant.net (62.40.98.43)  41.206 ms  41.206 ms  41.213 ms
+ 7  193.203.0.194 (193.203.0.194)  48.410 ms  45.189 ms  45.229 ms
+ 8  ae14.bb02.fra2.tfbnw.net (31.13.29.210)  51.453 ms  51.434 ms
+ 9  ae4.bb01.cdg1.tfbnw.net (31.13.28.25)  62.181 ms
+10  ae7.bb01.lga1.tfbnw.net (31.13.30.92)  132.516 ms  132.456 ms  133.137 ms
+11  ae19.bb02.iad2.tfbnw.net (31.13.25.71)  140.298 ms
+12  ae9.bb03.frc1.tfbnw.net (31.13.24.80)  159.541 ms  158.903 ms
+13  ae4.dr04.frc1.tfbnw.net (31.13.27.73)  150.950 ms
+14  * * *
+15  * * *
+
+Hong Kong
+ 1  bbs-1-250-0-210.on-nets.com (210.0.250.1)  0.417 ms  0.333 ms  0.320 ms
+ 2  10.2.193.17 (10.2.193.17)  0.628 ms  0.610 ms  0.597 ms
+ 3  facebook-10G.hkix.net (202.40.161.110)  3.113 ms  1.555 ms  1.561 ms
+ 4  ae11.bb02.hkg1.tfbnw.net (31.13.28.116)  1.793 ms  1.845 ms  1.776 ms
+ 5  ae17.bb01.sjc1.tfbnw.net (204.15.21.186)  143.617 ms  143.822 ms  163.489 ms
+ 6  ae6.bb01.frc1.tfbnw.net (31.13.24.28)  203.258 ms  203.456 ms  226.878 ms
+ 7  ae1.dr03.frc1.tfbnw.net (31.13.27.76)  209.317 ms ae1.dr04.frc1.tfbnw.net (31.13.27.80)  199.213 ms  224.354 ms
+ 8  * * *
+ 9  * * *
+10  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  198.142 ms  199.214 ms  198.436 ms
+
+Hungary
+1 vl891.sw.b2.vh.hbone.hu (193.225.14.253) 0.570 ms 0.503 ms 0.508 ms
+2 be1.rtr2.vh.hbone.hu (195.111.96.57) 1.102 ms 1.131 ms 1.141 ms
+3 hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102) 0.899 ms 0.912 ms 0.849 ms
+4 hungarnet.mx1.bud.hu.geant.net (62.40.124.101) 0.324 ms 0.326 ms 0.311 ms
+5 ae0.mx2.bra.sk.geant.net (62.40.98.111) 5.416 ms 5.404 ms 5.371 ms
+6 ae0.mx1.vie.at.geant.net (62.40.98.63) 4.126 ms 4.183 ms 4.154 ms
+7 193.203.0.194 (193.203.0.194) 4.206 ms 4.179 ms 4.160 ms
+8 ae14.bb01.fra2.tfbnw.net (31.13.29.158) 34.312 ms ae14.bb02.fra2.tfbnw.net (31.13.29.210) 15.033 ms 15.020 ms
+9 ae4.bb02.cdg1.tfbnw.net (31.13.30.2) 24.805 ms ae8.bb01.cdg1.tfbnw.net (74.119.78.112) 24.905 ms 24.889 ms
+10 ae7.bb01.lga1.tfbnw.net (31.13.30.92) 95.250 ms 95.921 ms 95.026 ms
+11 ae32.bb02.iad1.tfbnw.net (31.13.30.163) 127.161 ms ae18.bb01.iad1.tfbnw.net (204.15.20.128) 103.065 ms 103.236 ms
+12 ae8.bb01.frc1.tfbnw.net (31.13.24.32) 121.429 ms 130.652 ms 130.603 ms
+13 ae3.dr04.frc1.tfbnw.net (31.13.27.61) 114.562 ms 114.548 ms ae1.dr01.frc1.tfbnw.net (31.13.24.15) 114.185 ms
+14 * * *
+15 * * *
+16 edge-star-shv-13-frc1.facebook.com (173.252.110.27) 113.967 ms 113.843 ms 113.616 ms
+
+Iceland
+ 1  ndn-gw1-ge2-0-0 (130.208.16.13)  0.203 ms  0.127 ms  0.147 ms
+ 2  is-rey.nordu.net (109.105.102.1)  0.203 ms  0.201 ms  0.180 ms
+ 3  uk-hex.nordu.net (109.105.97.41)  51.153 ms  38.188 ms  38.167 ms
+ 4  linx.br01.lhr1.tfbnw.net (195.66.225.69)  38.363 ms  38.353 ms  38.342 ms
+ 5  ae1.bb02.lhr2.tfbnw.net (31.13.30.198)  44.246 ms  54.287 ms
+ 6  be5.bb02.dca1.tfbnw.net (31.13.30.236)  131.414 ms  131.346 ms  131.353 ms
+ 7  ae13.bb03.frc1.tfbnw.net (31.13.31.249)  132.740 ms
+ 8  ae4.dr04.frc1.tfbnw.net (31.13.27.73)  125.139 ms
+ 9  * * *
+10  * * *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  125.132 ms  125.127 ms  125.115 ms
+
+India
+1 <1 ms <1 ms <1 ms 203.110.87.17
+2 <1 ms <1 ms <1 ms 203.110.80.9
+3 3 ms 2 ms 2 ms 115.113.254.77
+4 29 ms 29 ms 29 ms 172.29.250.33
+5 * * * Request timed out.
+6 28 ms 27 ms 27 ms 115.114.85.233
+7 142 ms 143 ms 141 ms 80.231.217.17
+8 138 ms 138 ms 138 ms 80.231.217.6
+9 134 ms 134 ms 133 ms 80.231.154.17
+10 147 ms 137 ms 145 ms 80.231.153.66
+11 218 ms 219 ms 219 ms 4.69.168.62
+12 212 ms 213 ms 212 ms 4.69.161.93
+13 221 ms 219 ms 219 ms 4.69.137.62
+14 219 ms 220 ms 220 ms 4.69.134.150
+15 225 ms * 228 ms 4.69.149.82
+16 219 ms 219 ms 219 ms 4.53.116.78
+17 212 ms 212 ms 211 ms 204.15.20.54
+18 228 ms 228 ms 226 ms 31.13.24.80
+19 229 ms 269 ms 229 ms 31.13.27.57
+20 * * * Request timed out.
+21 * * * Request timed out.
+22 227 ms 227 ms 227 ms 173.252.110.27
+
+Chicago
+ 1  ip50.208-100-4.static.steadfastdns.net (208.100.4.50)  0.377 ms  0.393 ms  0.432 ms
+ 2  ip32.208-100-32.static.steadfastdns.net (208.100.32.32)  0.227 ms  0.241 ms  0.240 ms
+ 3  ip53.216-86-149.static.steadfastdns.net (216.86.149.53)  0.238 ms  0.258 ms  0.239 ms
+ 4  ip53.216-86-149.static.steadfastdns.net (216.86.149.53)  0.285 ms  0.283 ms  0.322 ms
+ 5  ae1.bb02.ord1.tfbnw.net (31.13.29.2)  3.113 ms * *
+ 6  ae12.bb02.atl1.tfbnw.net (31.13.27.150)  20.772 ms  20.811 ms  20.794 ms
+ 7  ae11.bb03.frc1.tfbnw.net (31.13.27.120)  26.870 ms  26.850 ms  28.329 ms
+ 8  ae3.dr04.frc1.tfbnw.net (31.13.27.61)  27.567 ms  26.793 ms  26.775 ms
+ 9  * * *
+10  * * *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  28.133 ms  28.129 ms  28.133 ms
+
+New York
+ 1  ip3.69-162-170.static.steadfastdns.net (69.162.170.3)  2.182 ms  2.360 ms  2.609 ms
+ 2  ip61.67-202-117.static.steadfastdns.net (67.202.117.61)  1.156 ms  1.354 ms  1.552 ms
+ 3  ip25.67-202-117.static.steadfastdns.net (67.202.117.25)  0.402 ms  0.450 ms  0.498 ms
+ 4  xe-1-1-0.br01.lga1.tfbnw.net (198.32.118.27)  0.299 ms  0.310 ms  0.310 ms
+ 5  ae1.bb01.lga1.tfbnw.net (31.13.30.10)  15.166 ms  15.168 ms  15.169 ms
+ 6  ae18.bb01.iad1.tfbnw.net (204.15.20.128)  6.175 ms  6.161 ms  6.505 ms
+ 7  ae8.bb01.frc1.tfbnw.net (31.13.24.32)  22.376 ms  25.797 ms  25.751 ms
+ 8  ae1.dr04.frc1.tfbnw.net (31.13.27.80)  16.712 ms  16.462 ms  16.314 ms
+ 9  * * *
+10  * * *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  16.059 ms  16.297 ms  16.262 ms
+
+Los Angeles
+ 1  208.79.89.233 (208.79.89.233)  5.405 ms  5.608 ms  5.814 ms
+ 2  facebook.com.any2ix.coresite.com (206.223.143.161)  0.593 ms  0.579 ms  0.544 ms
+ 3  ae1.bb02.lax1.tfbnw.net (31.13.30.26)  0.839 ms ae1.bb01.lax1.tfbnw.net (31.13.30.24)  0.834 ms ae1.bb02.lax1.tfbnw.net (31.13.30.26)  0.752 ms
+ 4  ae13.bb02.atl1.tfbnw.net (31.13.28.111)  50.152 ms  50.098 ms  50.117 ms
+ 5  ae16.bb01.frc1.tfbnw.net (31.13.27.118)  57.862 ms ae16.bb02.frc1.tfbnw.net (31.13.27.112)  61.443 ms ae10.bb03.frc1.tfbnw.net (31.13.27.110)  54.670 ms
+ 6  ae39.dr01.frc1.tfbnw.net (31.13.27.55)  57.511 ms  57.454 ms  57.420 ms
+ 7  * * *
+ 8  * * *
+ 9  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  57.582 ms  57.565 ms  55.819 ms
+ 
+Boston
+ 1  dcr01-lt-1-1-10-503.bos03.twdx.net (216.93.240.253)  0.269 ms  0.217 ms  0.198 ms
+ 2  bbr02-ae-3-20G.bos01.twdx.net (216.93.255.197)  0.345 ms  0.326 ms  0.317 ms
+ 3  bbr01-ae-2-40G.bsn01.twdx.net (198.160.63.131)  0.515 ms  0.442 ms  0.417 ms
+ 4  bbr02-ae-0-40G.bsn01.twdx.net (198.160.63.137)  0.367 ms  0.347 ms  0.417 ms
+ 5  ae3-232.bar1.Boston1.Level3.net (4.31.154.77)  0.543 ms  0.584 ms  0.591 ms
+ 6  ae-0-11.bar2.Boston1.Level3.net (4.69.140.90)  0.763 ms  0.732 ms  0.800 ms
+ 7  ae-8-8.ebr1.NewYork1.Level3.net (4.69.140.98)  11.211 ms  11.249 ms  11.785 ms
+ 8  4.69.201.42 (4.69.201.42)  32.309 ms ae-48-48.ebr2.NewYork2.Level3.net (4.69.201.50)  12.183 ms ae-10-10.ebr2.Washington12.Level3.net (4.69.148.50)  22.346 ms
+ 9  4.69.202.53 (4.69.202.53)  11.606 ms 4.69.201.93 (4.69.201.93)  10.998 ms ae-5-5.ebr2.Washington1.Level3.net (4.69.143.221)  11.392 ms
+10  ae-92-92.csw4.Washington1.Level3.net (4.69.134.158)  10.948 ms ae-62-62.csw1.Washington1.Level3.net (4.69.134.146)  17.132 ms ae-82-82.csw3.Washington1.Level3.net (4.69.134.154)  14.747 ms
+11  ae-1-60.edge3.Washington4.Level3.net (4.69.149.18)  11.637 ms ae-2-70.edge3.Washington4.Level3.net (4.69.149.82)  26.869 ms ae-1-60.edge3.Washington4.Level3.net (4.69.149.18)  19.076 ms
+12  FACEBOOK-IN.edge3.Washington4.Level3.net (4.53.116.78)  24.621 ms  31.723 ms  27.409 ms
+13  ae1.bb02.iad2.tfbnw.net (74.119.77.146)  97.395 ms ae1.bb01.iad2.tfbnw.net (204.15.20.54)  16.304 ms ae1.bb02.iad2.tfbnw.net (74.119.77.146)  90.718 ms
+14  ae4.bb01.frc1.tfbnw.net (31.13.24.24)  113.405 ms ae9.bb03.frc1.tfbnw.net (31.13.24.80)  24.745 ms ae9.bb04.frc1.tfbnw.net (31.13.24.86)  147.092 ms
+15  ae4.dr04.frc1.tfbnw.net (31.13.27.73)  96.476 ms ae40.dr02.frc1.tfbnw.net (31.13.27.69)  34.763 ms ae39.dr01.frc1.tfbnw.net (31.13.27.55)  21.742 ms
+16  * * *
+17  * * *
+18  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  117.969 ms  116.322 ms  115.129 ms
+ 
+USA
+  1  208.76.255.189 (208.76.255.189)  0.998 ms  1.251 ms  1.495 ms
+ 2  gw.mcom-colocationamerica.com (208.64.231.81)  136.749 ms  136.866 ms  136.916 ms
+ 3  tge4-1.cr2.lax.multacom.com (208.64.231.6)  225.884 ms  225.883 ms  225.891 ms
+ 4  facebook.com.any2ix.coresite.com (206.223.143.161)  0.316 ms  0.325 ms  0.306 ms
+ 5  ae1.bb02.lax1.tfbnw.net (31.13.30.26)  0.507 ms  0.496 ms ae1.bb01.lax1.tfbnw.net (31.13.30.24)  0.481 ms
+ 6  ae13.bb02.atl1.tfbnw.net (31.13.28.111)  50.007 ms ae12.bb01.atl1.tfbnw.net (31.13.28.109)  50.017 ms ae13.bb02.atl1.tfbnw.net (31.13.28.111)  50.015 ms
+ 7  ae11.bb03.frc1.tfbnw.net (31.13.27.120)  57.409 ms ae7.bb02.frc1.tfbnw.net (31.13.24.44)  55.773 ms ae10.bb03.frc1.tfbnw.net (31.13.27.110)  58.249 ms
+ 8  ae2.dr04.frc1.tfbnw.net (31.13.27.82)  54.084 ms ae1.dr01.frc1.tfbnw.net (31.13.24.15)  55.765 ms ae2.dr04.frc1.tfbnw.net (31.13.27.82)  54.092 ms
+ 9  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  57.151 ms  57.220 ms  55.555 ms
+ 
+ USA
+ 1  teb1.111.05.interserver.net (66.45.228.190)  0.068 ms  0.018 ms  0.017 ms
+ 2  64.20.32.213 (64.20.32.213)  0.500 ms  0.508 ms  0.525 ms
+ 3  core-04-teb2.us.as19318.net (64.20.32.234)  0.426 ms  0.402 ms  0.442 ms
+ 4  207.239.51.85 (207.239.51.85)  0.383 ms  0.366 ms  0.396 ms
+ 5  vb1010.rar3.nyc-ny.us.xo.net (216.156.0.17)  2.177 ms  2.157 ms  2.489 ms
+ 6  * * *
+ 7  206.111.13.214.ptr.us.xo.net (206.111.13.214)  0.837 ms  0.808 ms  0.822 ms
+ 8  ae5-40G.scr4.NYC1.gblx.net (67.17.105.237)  0.693 ms  0.681 ms  0.649 ms
+ 9  ae1-20G.scr4.WDC2.gblx.net (67.16.166.190)  5.889 ms  56.473 ms  5.837 ms
+10  lag14.csr2.DCA3.gblx.net (67.16.166.250)  5.957 ms  5.939 ms  6.168 ms
+11  FACEBOOK-INC.ethernet12-1.csr1.DCA3.gblx.net (64.215.81.234)  8.884 ms  8.906 ms  9.348 ms
+12  ae11.bb01.iad1.tfbnw.net (74.119.78.68)  7.269 ms  36.756 ms  6.721 ms
+13  ae8.bb01.frc1.tfbnw.net (31.13.24.32)  21.217 ms  22.784 ms  23.068 ms
+14  ae1.dr04.frc1.tfbnw.net (31.13.27.80)  16.917 ms ae1.dr03.frc1.tfbnw.net (31.13.27.76)  17.053 ms ae3.dr03.frc1.tfbnw.net (31.13.27.59)  17.200 ms
+15  * * *
+16  * * *
+17  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  19.692 ms  19.794 ms  20.221 ms
+
+East Cost/USA site
+ 1  209.132.180.92 (209.132.180.92) [AS31976] hostmaster@redhat.com  0.449 ms  0.363 ms  0.293 ms
+ 2  transit-2-180-132-209.redhat.com (209.132.180.2) [AS31976] hostmaster@redhat.com  0.587 ms  0.608 ms  0.639 ms
+ 3  ip-163-181-132-209.redhat.com (209.132.181.163) [AS31976] hostmaster@redhat.com  0.698 ms  0.637 ms  0.544 ms
+ 4  border2.ge3-1.redhat-2.phx004.pnap.net (69.25.121.29) [AS11855] hostmaster@pnap.net  0.846 ms  1.325 ms border2.ge3-14.redhatphx-1.phx004.pnap.net (69.25.120.245) [AS11855] hostmaster@pnap.net  1.840 ms
+ 5  core3.po2-bbnet2.phx010.pnap.net (69.25.168.84) [AS11855] hostmaster@pnap.net  1.972 ms  1.863 ms core3.po1-bbnet1.phx010.pnap.net (69.25.168.20) [AS11855] hostmaster@pnap.net  1.948 ms
+ 6  ae2-103.phx10.ip4.tinet.net (77.67.94.73) [AS3257] netguard@tinet.net  1.269 ms  1.623 ms  1.507 ms
+ 7  xe-8-2-0.lax20.ip4.tinet.net (89.149.182.174) [AS3257] netguard@tinet.net  33.435 ms xe-8-1-0.lax20.ip4.tinet.net (89.149.181.170) [AS3257] netguard@tinet.net  12.751 ms xe-5-0-0.lax20.ip4.tinet.net (89.149.182.194) [AS3257] netguard@tinet.net  12.785 ms
+ 8  xe-11-3-0.edge1.LosAngeles6.level3.net (4.68.62.1) [AS3356] dns@Level3.net  12.031 ms  12.003 ms  11.922 ms
+ 9  vlan80.csw3.LosAngeles1.Level3.net (4.69.144.190) [AS3356] dns@level3.net  74.237 ms  74.193 ms vlan70.csw2.LosAngeles1.Level3.net (4.69.144.126) [AS3356] dns@level3.net  99.679 ms
+10  ae-62-62.ebr2.LosAngeles1.Level3.net (4.69.137.17) [AS3356] dns@level3.net  74.783 ms ae-82-82.ebr2.LosAngeles1.Level3.net (4.69.137.25) [AS3356] dns@level3.net  86.734 ms  73.769 ms
+11  ae-3-3.ebr3.Dallas1.Level3.net (4.69.132.78) [AS3356] dns@level3.net  73.234 ms  99.137 ms  99.663 ms
+12  ae-7-7.ebr3.Atlanta2.Level3.net (4.69.134.22) [AS3356] dns@level3.net  99.587 ms  99.142 ms  99.652 ms
+13  ae-63-63.ebr1.Atlanta2.Level3.net (4.69.148.242) [AS3356] dns@level3.net  99.567 ms ae-73-73.ebr2.Atlanta2.Level3.net (4.69.148.254) [AS3356] dns@level3.net  99.279 ms ae-63-63.ebr1.Atlanta2.Level3.net (4.69.148.242) [AS3356] dns@level3.net  74.658 ms
+14  4.69.159.33 (4.69.159.33) [AS3356] dns@level3.net  73.825 ms 4.69.159.53 (4.69.159.53) [AS3356] dns@level3.net  86.240 ms  74.498 ms
+15  FACEBOOK-IN.edge5.Atlanta2.Level3.net (4.28.26.46) [AS3356] dns@level3.net  74.102 ms  86.923 ms  99.705 ms
+16  ae2.bb02.atl1.tfbnw.net (204.15.23.210) [AS32934/AS10753] dns@facebook.com  99.634 ms  99.670 ms  99.605 ms
+17  ae11.bb03.frc1.tfbnw.net (31.13.27.120) [AS32934] dns@facebook.com  99.610 ms  87.418 ms ae10.bb04.frc1.tfbnw.net (31.13.27.114) [AS32934] dns@facebook.com  82.273 ms
+18  ae1.dr02.frc1.tfbnw.net (31.13.24.19) [AS32934] dns@facebook.com  122.445 ms ae2.dr03.frc1.tfbnw.net (31.13.27.78) [AS32934] dns@facebook.com  133.268 ms ae4.dr03.frc1.tfbnw.net (31.13.27.71) [AS32934] dns@facebook.com  126.611 ms
+19  * * *
+20  * * *
+21  edge-star-shv-13-frc1.facebook.com (173.252.110.27) [AS32934] dns@facebook.com  123.781 ms  125.772 ms  167.439 ms
+
+USA
+ 1  [5056] [IOWANET] ins-db1-et-10-44.desm.netins.net (167.142.67.89) 0.2ms
+ 2  [5056] [IOWANET] ins-dc2-et-8-3.desm.netins.net (167.142.67.25) 0.2ms
+ 3  [5056] [IOWANET] ins-db3-te-0-7-0-0.desm.netins.net (167.142.67.182) 0.6ms
+ 4  [36280] [GLC-216-176-4-0-24] ord1.ins.indatelservices.com (216.176.4.29) 15.7ms
+ 5  [AS?] [NULL] equinix.br01.ord1.tfbnw.NET (206.223.119.115) 15.3ms
+ 6  [32934] [IE-FACEBOOK-20110418] ae1.bb01.ord1.tfbnw.net (31.13.29.0) 15.5ms
+ 7  [32934] [IE-FACEBOOK-20110418] ae11.bb01.atl1.tfbnw.net (31.13.27.148) 35.7ms
+ 8  [32934] [IE-FACEBOOK-20110418] ae7.bb01.frc1.tfbnw.net (31.13.24.30) 41.6ms
+ 9  [32934] [IE-FACEBOOK-20110418] ae1.dr04.frc1.tfbnw.net (31.13.27.80) 41.5ms
+10  **
+11  [neglected] no reply packets received from TTLs 10 through 
+12  [32934] [FACEBOOK-INC] [target] edge-star-shv-13-frc1.facebook.com (173.252.110.27) 41.4ms
+
+USA
+ 2  Opus-GW.Opus1.COM (207.182.35.49)  0.962 ms  0.914 ms  0.907 ms
+ 3  209.104.3.89 (209.104.3.89)  1.671 ms  1.668 ms  1.786 ms
+ 4  dsl-206.169.93.41.wenet.com (206.169.93.41)  1.648 ms  1.669 ms  1.662 ms
+ 5  64-129-238-190.static.twtelecom.net (64.129.238.190)  14.768 ms  14.746 ms  14.752 ms
+ 6  12.91.226.9 (12.91.226.9)  61.692 ms  61.874 ms  61.684 ms
+ 7  cr1.la2ca.ip.att.net (12.122.104.14)  29.164 ms  27.544 ms  27.145 ms
+ 8  cr82.sj2ca.ip.att.net (12.122.1.146)  27.220 ms  27.216 ms  27.209 ms
+ 9  12.122.128.201 (12.122.128.201)  46.062 ms  46.073 ms  46.238 ms
+10  12.249.231.26 (12.249.231.26)  25.723 ms  25.647 ms  25.640 ms
+11  ae0.bb01.sjc1.tfbnw.net (74.119.76.21)  29.517 ms ae1.bb02.sjc1.tfbnw.net (204.15.21.164)  27.899 ms  25.953 ms
+12  ae6.bb01.frc1.tfbnw.net (31.13.24.28)  65.967 ms ae6.bb02.frc1.tfbnw.net (31.13.24.42)  64.073 ms  64.346 ms
+13  ae1.dr04.frc1.tfbnw.net (31.13.27.80)  76.011 ms ae1.dr03.frc1.tfbnw.net (31.13.27.76)  77.046 ms ae2.dr02.frc1.tfbnw.net (31.13.24.21)  76.377 ms
+14  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  77.037 ms  77.011 ms  77.125 ms
+
+USA
+ 1  gatekeeper (64.200.84.2)  1.443 ms  1.421 ms  1.548 ms
+ 2  t1-2-1-0-11-13.edge1.Cleveland1.Level3.net (4.26.41.225)  16.453 ms  25.877 ms  34.401 ms
+ 3  ae-13-13.car1.Cleveland1.Level3.net (4.69.140.74)  201.039 ms  230.567 ms  202.184 ms
+ 4  ae-2-4.bar1.Cleveland1.Level3.net (4.69.132.194)  61.646 ms  68.155 ms  63.081 ms
+ 5  ae-6-6.ebr1.Washington1.Level3.net (4.69.136.190)  37.167 ms  20.921 ms  20.837 ms
+ 6  ae-81-81.csw3.Washington1.Level3.net (4.69.134.138)  23.630 ms ae-71-71.csw2.Washington1.Level3.net (4.69.134.134)  21.047 ms ae-81-81.csw3.Washington1.Level3.net (4.69.134.138)  21.654 ms
+ 7  * * ae-4-90.edge3.Washington4.Level3.net (4.69.149.210)  330.912 ms
+ 8  FACEBOOK-IN.edge3.Washington4.Level3.net (4.53.116.78)  388.051 ms  35.984 ms  25.014 ms
+ 9  ae1.bb02.iad2.tfbnw.net (74.119.77.146)  24.188 ms  41.322 ms  39.249 ms
+10  ae4.bb02.frc1.tfbnw.net (31.13.24.38)  50.330 ms ae4.bb01.frc1.tfbnw.net (31.13.24.24)  63.520 ms ae4.bb02.frc1.tfbnw.net (31.13.24.38)  49.896 ms
+11  ae2.dr01.frc1.tfbnw.net (31.13.24.17)  38.803 ms ae2.dr02.frc1.tfbnw.net (31.13.24.21)  69.670 ms ae2.dr01.frc1.tfbnw.net (31.13.24.17)  144.228 ms
+12  * * *
+13  * * *
+14  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  328.517 ms  292.652 ms  298.217 ms
+
+USC/USA
+ 3  v249-gw-6 (68.181.194.65)  0.901 ms  0.476 ms  0.657 ms
+ 4  lax-dc1--losnettos-dc.cenic.net (137.164.23.225)  0.598 ms  0.948 ms  0.642 ms
+ 5  dc-lax-core2--lax-agg5-10ge.cenic.net (137.164.46.134)  1.704 ms  3.558 ms  3.693 ms
+ 6  dc-svl-core1--lax-core2-10ge-1.cenic.net (137.164.46.97)  12.630 ms  13.267 ms  12.170 ms
+ 7  dc-svl-px1--svl-core1-10ge-1.cenic.net (137.164.46.205)  8.895 ms  9.026 ms  8.904 ms
+ 8  dc-paix-px1--svl-px1-ge.cenic.net (137.164.47.20)  9.547 ms  9.736 ms  9.553 ms
+ 9  paix-px1--facebook-ge.cenic.net (198.32.251.133)  10.873 ms  11.094 ms  11.138 ms
+10  ae2.bb02.pao1.tfbnw.net (74.119.77.130)  11.227 ms  11.356 ms ae1.bb01.pao1.tfbnw.net (74.119.76.134)  10.713 ms
+11  ae4.bb01.sjc1.tfbnw.net (74.119.76.137)  9.606 ms  10.153 ms  9.514 ms
+12  ae6.bb01.frc1.tfbnw.net (31.13.24.28)  60.563 ms ae6.bb02.frc1.tfbnw.net (31.13.24.42)  69.859 ms ae6.bb01.frc1.tfbnw.net (31.13.24.28)  62.241 ms
+13  ae1.dr04.frc1.tfbnw.net (31.13.27.80)  60.856 ms ae1.dr02.frc1.tfbnw.net (31.13.24.19)  62.198 ms ae2.dr01.frc1.tfbnw.net (31.13.24.17)  61.747 ms
+14  * * *
+15  * * *
+16  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  61.781 ms  61.713 ms  59.958 ms
+
+stanford/USA
+ 1  rtr-servcore1-serv01-webserv.slac.stanford.edu (134.79.197.130)  0.528 ms  0.409 ms  0.397 ms
+ 2  rtr-core2-p2p-servcore1.slac.stanford.edu (134.79.252.162)  0.649 ms  0.411 ms  0.398 ms
+ 3  rtr-border2-p2p-core2.slac.stanford.edu (134.79.252.145)  0.526 ms  0.411 ms  0.539 ms
+ 4  slac-mr2-p2p-rtr-border2.slac.stanford.edu (192.68.191.249)  0.387 ms  0.410 ms  0.260 ms
+ 5  * * *
+ 6  sacrcr5-ip-a-sunncr5.es.net (134.55.40.5)  4.373 ms  3.886 ms  3.915 ms
+ 7  denvcr5-ip-a-sacrcr5.es.net (134.55.50.202)  25.169 ms  24.919 ms  24.838 ms
+ 8  kanscr5-ip-a-denvcr5.es.net (134.55.49.58)  35.722 ms  35.476 ms  35.456 ms
+ 9  chiccr5-ip-a-kanscr5.es.net (134.55.43.81)  46.705 ms  46.440 ms  46.573 ms
+10  eqxchirt1-10g-chicsdn2.es.net (134.55.38.162)  46.283 ms  46.319 ms  46.307 ms
+11  198.125.140.234 (198.125.140.234)  46.551 ms  46.466 ms  46.579 ms
+12  lag3.csr2.DCA3.gblx.net (67.16.166.234)  72.696 ms  65.636 ms  74.163 ms
+13  FACEBOOK-INC.ethernet12-1.csr1.DCA3.gblx.net (64.215.81.234)  86.577 ms  65.588 ms  98.672 ms
+14  ae11.bb01.iad1.tfbnw.net (74.119.78.68)  65.800 ms  65.949 ms  65.885 ms
+15  ae8.bb01.frc1.tfbnw.net (31.13.24.32)  98.283 ms ae8.bb04.frc1.tfbnw.net (31.13.24.95)  106.723 ms ae8.bb01.frc1.tfbnw.net (31.13.24.32)  80.211 ms
+16  ae1.dr01.frc1.tfbnw.net (31.13.24.15)  76.010 ms ae1.dr03.frc1.tfbnw.net (31.13.27.76)  75.673 ms ae1.dr01.frc1.tfbnw.net (31.13.24.15)  75.985 ms
+17  * * *
+18  * * *
+19  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  75.786 ms  75.957 ms  75.974 ms
+
+princeton
+ 1  core-87-router (128.112.128.2)  0.571 ms  0.400 ms  0.359 ms
+ 2  vgate1 (128.112.12.82)  0.348 ms  0.335 ms  0.411 ms
+ 3  border-87-router (204.153.48.10)  0.637 ms  0.439 ms  0.392 ms
+ 4  63-138-53-73.customer.static.ip.paetec.net (63.138.53.73)  2.710 ms  2.570 ms  2.547 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  169.130.164.138 (169.130.164.138)  8.508 ms  8.464 ms  8.410 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  ae2.dr04.frc1.tfbnw.net (31.13.27.82)  20.413 ms ae4.dr03.frc1.tfbnw.net (31.13.27.71)  20.765 ms ae1.dr01.frc1.tfbnw.net (31.13.24.15)  21.606 ms
+13  * * *
+14  * * *
+15  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  20.669 ms  20.484 ms  21.274 ms
+
+UK
+ 1  alan5 (193.62.127.129)  1.379 ms  0.780 ms  0.675 ms
+ 2  gw-fw (193.63.74.131)  0.279 ms  0.241 ms  0.231 ms
+ 3  c-pop (193.63.74.226)  1.199 ms  9.027 ms  9.052 ms
+ 4  193.62.116.18 (193.62.116.18)  1.160 ms  1.123 ms  1.112 ms
+ 5  ae6.manckh-sbr1.ja.net (146.97.41.61)  9.332 ms  1.171 ms  1.199 ms
+ 6  ae29.erdiss-sbr1.ja.net (146.97.33.41)  3.123 ms  3.100 ms  5.886 ms
+ 7  ae31.londpg-sbr1.ja.net (146.97.33.21)  7.017 ms  6.969 ms  6.951 ms
+ 8  ae29.londhx-sbr1.ja.net (146.97.33.1)  8.956 ms  7.398 ms  7.434 ms
+ 9  ae0.lond-gw-ixp3.ja.net (146.97.35.174)  7.500 ms  7.518 ms  7.420 ms
+10  195.66.237.69 (195.66.237.69)  18.637 ms  7.529 ms  7.543 ms
+11  ae1.bb02.lhr2.tfbnw.net (31.13.30.198)  7.792 ms  7.786 ms ae1.bb01.lhr2.tfbnw.net (31.13.30.174)  7.900 ms
+12  be5.bb02.dca1.tfbnw.net (31.13.30.236)  95.193 ms be5.bb01.dca1.tfbnw.net (31.13.31.2)  94.978 ms be5.bb02.dca1.tfbnw.net (31.13.30.236)  95.344 ms
+13  ae13.bb03.frc1.tfbnw.net (31.13.31.249)  100.540 ms  102.134 ms ae13.bb04.frc1.tfbnw.net (204.15.20.75)  102.090 ms
+14  ae40.dr02.frc1.tfbnw.net (31.13.27.69)  94.371 ms  94.341 ms ae2.dr03.frc1.tfbnw.net (31.13.27.78)  94.693 ms
+15  * * *
+16  * * *
+17  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  94.375 ms  94.323 ms  94.320 ms
+
+
+Ukraine
+ 1  [AS15800] br.eastua.net (185.12.112.254)  0.236 ms  0.146 ms  0.289 ms
+ 2  [AS9002] ae0-205.RT.ATR.DOK.UA.retn.net (87.245.239.37)  0.304 ms  0.406 ms  0.298 ms
+ 3  [AS9002] ae2-9.RT.IRX.VIE.AT.retn.net (87.245.233.138)  45.495 ms  45.330 ms  45.342 ms
+ 4  [AS1120] 193.203.0.194 (193.203.0.194)  65.934 ms  45.350 ms  45.524 ms
+ 5  [AS32934] ae14.bb01.fra2.tfbnw.net (31.13.29.158)  57.456 ms  61.664 ms  49.560 ms
+ 6  [AS32934] ae4.bb01.cdg1.tfbnw.net (31.13.28.25)  71.098 ms    [AS32934] ae8.bb02.cdg1.tfbnw.net (74.119.78.118)  70.372 ms  70.310 ms
+ 7  [AS32934] ae7.bb01.lga1.tfbnw.net (31.13.30.92)  149.087 ms    [AS32934] ae6.bb01.lga1.tfbnw.net (204.15.23.17)  144.720 ms    [AS32934] ae7.bb01.lga1.tfbnw.net (31.13.30.92)  149.852 ms
+ 8  [AS32934] ae18.bb01.iad1.tfbnw.net (204.15.20.128)  141.742 ms    [AS32934] ae19.bb02.iad2.tfbnw.net (31.13.25.71)  145.003 ms    [AS32934] ae32.bb02.iad1.tfbnw.net (31.13.30.163)  170.714 ms
+ 9  [AS32934] ae4.bb02.frc1.tfbnw.net (31.13.24.38)  166.222 ms    [AS32934] ae8.bb03.frc1.tfbnw.net (31.13.24.88)  161.273 ms   [AS32934] ae8.bb01.frc1.tfbnw.net (31.13.24.32)  178.973 ms
+10  [AS32934] ae1.dr03.frc1.tfbnw.net (31.13.27.76)  157.737 ms   [AS32934] ae39.dr02.frc1.tfbnw.net (31.13.27.57)  160.189 ms   [AS32934] ae1.dr03.frc1.tfbnw.net (31.13.27.76)  157.892 ms
+11  * * *
+12  * * *
+13  [AS32934] edge-star-shv-13-frc1.facebook.com (173.252.110.27)  159.409 ms  159.681 ms  160.079 ms
+
+Thailand
+ 1  10.1.105.1 (10.1.105.1)  16.299 ms  18.059 ms  15.246 ms
+ 2  10.1.4.3 (10.1.4.3)  3.295 ms  1.632 ms  1.745 ms
+ 3  202.28.62.246 (202.28.62.246)  2.266 ms  3.311 ms  1.992 ms
+ 4  202.28.62.250 (202.28.62.250)  3.148 ms  2.802 ms  3.492 ms
+ 5  202.28.212.173 (202.28.212.173)  2.998 ms  3.608 ms  3.513 ms
+ 6  202.28.212.53 (202.28.212.53)  4.584 ms  9.739 ms  3.781 ms
+ 7  122.155.224.29 (122.155.224.29)  6.754 ms  6.827 ms  4.257 ms
+ 8  61.19.7.9 (61.19.7.9)  29.840 ms  29.712 ms  28.587 ms
+ 9  61.19.7.2 (61.19.7.2)  35.231 ms  33.506 ms  31.810 ms
+10  61.19.9.158 (61.19.9.158)  42.063 ms  31.457 ms  30.595 ms
+11  * * *
+12  ae11.bb01.sin1.tfbnw.net (31.13.28.146)  30.725 ms  31.692 ms  33.541 ms
+13  ae10.bb02.sin1.tfbnw.net (31.13.28.139)  31.239 ms  31.902 ms  30.828 ms
+14  ae6.bb02.lax1.tfbnw.net (204.15.20.79)  201.270 ms  200.677 ms  200.593 ms
+15  ae13.bb02.atl1.tfbnw.net (31.13.28.111)  246.876 ms  247.297 ms  255.461 ms
+16  ae7.bb02.frc1.tfbnw.net (31.13.24.44)  248.183 ms ae16.bb01.frc1.tfbnw.net (31.13.27.118)  255.523 ms ae7.bb02.frc1.tfbnw.net (31.13.24.44)  277.737 ms
+17  ae2.dr03.frc1.tfbnw.net (31.13.27.78)  250.237 ms ae2.dr04.frc1.tfbnw.net (31.13.27.82)  251.005 ms ae2.dr03.frc1.tfbnw.net (31.13.27.78)  260.774 ms
+18  * * *
+19  * * *
+20  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  253.713 ms  253.784 ms  254.858 ms
+
+Taiwan
+ 1  211.76.96.254 (211.76.96.254)  0.383 ms  0.374 ms
+ 2  219-80-240-37.static.tfn.net.tw (219.80.240.37)  1.032 ms  1.018 ms
+ 3  60-199-20-34.static.tfn.net.tw (60.199.20.34)  133.940 ms  133.937 ms
+ 4  paix.br01.pao1.tfbnw.net (198.32.176.71)  134.934 ms  154.788 ms
+ 5  ae8.bb02.pao1.tfbnw.net (74.119.77.177)  158.171 ms  135.355 ms
+ 6  ae24.bb02.sjc1.tfbnw.net (31.13.25.246)  131.818 ms  131.659 ms
+ 7  ae6.bb02.frc1.tfbnw.net (31.13.24.42)  197.038 ms  197.361 ms
+ 8  ae2.dr02.frc1.tfbnw.net (31.13.24.21)  218.475 ms  201.343 ms
+ 9  * *
+10  * *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  185.857 ms  185.401 ms
+
+Switzerland
+ 1  swiCS5-V108.switch.ch (130.59.108.5)  1.544 ms  1.506 ms  1.738 ms
+ 2  swiZH2-10GE-3-1.switch.ch (130.59.36.138)  0.358 ms  0.363 ms  0.521 ms
+ 3  swiCE3-10GE-3-1.switch.ch (130.59.36.1)  11.711 ms  11.714 ms  11.695 ms
+ 4  br02.ams1.tfbnw.net (195.69.145.164)  22.266 ms  22.271 ms  22.253 ms
+ 5  ae2.bb02.ams2.tfbnw.net (31.13.29.92)  25.370 ms  22.393 ms ae2.bb01.ams2.tfbnw.net (31.13.29.88)  25.413 ms
+ 6  ae8.bb01.lhr2.tfbnw.net (74.119.78.231)  32.809 ms  41.064 ms  33.113 ms
+ 7  be5.bb02.dca1.tfbnw.net (31.13.30.236)  120.776 ms be5.bb01.dca1.tfbnw.net (31.13.31.2)  117.887 ms be5.bb02.dca1.tfbnw.net (31.13.30.236)  117.607 ms
+ 8  ae13.bb04.frc1.tfbnw.net (204.15.20.75)  125.660 ms ae9.bb02.frc1.tfbnw.net (31.13.31.235)  125.737 ms ae9.bb01.frc1.tfbnw.net (31.13.31.5)  125.355 ms
+ 9  ae4.dr04.frc1.tfbnw.net (31.13.27.73)  120.001 ms ae2.dr01.frc1.tfbnw.net (31.13.24.17)  119.063 ms ae4.dr04.frc1.tfbnw.net (31.13.27.73)  119.862 ms
+10  * * *
+11  * * *
+12  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  117.231 ms  117.373 ms  116.770 ms
+
+Sweden
+ 1  flashdance.cx (193.228.143.149)  0.172 ms  0.157 ms
+ 2  linknet1.flashdance.cx (193.228.143.250)  16.074 ms  16.077 ms
+ 3  gw-out.flashdance.cx (194.68.0.217)  16.069 ms  16.123 ms
+ 4  te-1-0.sth4-core-1.srstubes.net (194.68.0.205)  16.116 ms  16.109 ms
+ 5  te-5-7-srstubes.sto2.se.portlane.net (80.67.0.213)  16.163 ms  16.156 ms
+ 6  po11-40g.sto4.se.portlane.net (80.67.4.174)  16.303 ms  16.386 ms
+ 7  te-2-4.ams1.nl.portlane.net (80.67.4.179)  36.221 ms  36.305 ms
+ 8  br02.ams1.tfbnw.net (195.69.145.164)  36.625 ms  36.667 ms
+ 9  ae2.bb01.ams2.tfbnw.net (31.13.29.88)  36.865 ms ae2.bb02.ams2.tfbnw.net (31.13.29.92)  36.848 ms
+10  ae3.bb02.lhr2.tfbnw.net (31.13.30.131)  37.852 ms  37.777 ms
+11  be5.bb02.dca1.tfbnw.net (31.13.30.236)  126.102 ms  126.079 ms
+12  ae9.bb01.frc1.tfbnw.net (31.13.31.5)  158.038 ms ae13.bb03.frc1.tfbnw.net (31.13.31.249)  166.356 ms
+13  ae40.dr01.frc1.tfbnw.net (31.13.27.67)  124.463 ms ae4.dr04.frc1.tfbnw.net (31.13.27.73)  124.464 ms
+14  * *
+15  * *
+16  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  128.164 ms  128.151 ms
+
+South Africa
+ 1  cisrb1-net109-64.posix.co.za (160.124.109.126)  0.366 ms  0.343 ms  0.160 ms
+ 2  cisldn1-cisrbc1.posix.co.za (160.124.1.2)  325.329 ms  332.251 ms  480.405 ms
+ 3  xe-11-2-0-112.lon10.ip4.tinet.net (213.200.77.17)  325.247 ms  325.779 ms  326.023 ms
+ 4  213.200.77.234 (213.200.77.234)  325.513 ms as3549.ip4.tinet.net (77.67.95.174)  325.608 ms 213.200.77.234 (213.200.77.234)  325.510 ms
+ 5  lag14.csr2.DCA3.gblx.net (67.16.166.250)  407.398 ms  409.931 ms  404.713 ms
+ 6  FACEBOOK-INC.ethernet12-1.csr1.DCA3.gblx.net (64.215.81.234)  399.489 ms  399.013 ms  399.698 ms
+ 7  ae11.bb01.iad1.tfbnw.net (74.119.78.68)  399.960 ms  400.183 ms  400.191 ms
+ 8  ae8.bb01.frc1.tfbnw.net (31.13.24.32)  416.477 ms  415.628 ms  414.439 ms
+ 9  ae1.dr03.frc1.tfbnw.net (31.13.27.76)  409.198 ms ae1.dr04.frc1.tfbnw.net (31.13.27.80)  408.108 ms ae1.dr02.frc1.tfbnw.net (31.13.24.19)  410.024 ms
+10  * * *
+11  * * *
+12  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  409.754 ms  408.928 ms  409.202 ms
+
+Singapore
+ 1  ge2-8.r01.sin01.ne.com.sg (202.150.221.169)  0.638 ms  0.751 ms  0.808 ms
+ 2  32934.sgw.equinix.com (202.79.197.65)  0.273 ms  0.294 ms  0.298 ms
+ 3  ae11.bb01.sin1.tfbnw.net (31.13.28.146)  0.479 ms  0.481 ms  0.473 ms
+ 4  ae10.bb02.sin1.tfbnw.net (31.13.28.139)  0.544 ms  0.509 ms  0.552 ms
+ 5  ae6.bb02.lax1.tfbnw.net (204.15.20.79)  172.244 ms  172.251 ms  172.235 ms
+ 6  ae13.bb02.atl1.tfbnw.net (31.13.28.111)  216.167 ms  216.235 ms  216.202 ms
+ 7  ae11.bb03.frc1.tfbnw.net (31.13.27.120)  224.631 ms ae7.bb02.frc1.tfbnw.net (31.13.24.44)  254.165 ms ae16.bb01.frc1.tfbnw.net (31.13.27.118)  224.323 ms
+ 8  ae39.dr02.frc1.tfbnw.net (31.13.27.57)  227.314 ms ae39.dr01.frc1.tfbnw.net (31.13.27.55)  227.322 ms ae2.dr03.frc1.tfbnw.net (31.13.27.78)  227.273 ms
+ 9  * * *
+10  * * *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  221.936 ms  227.323 ms  227.320 ms
+
+Russia
+ 1  195.128.76.225 (195.128.76.225)  0.349 ms  0.357 ms  0.336 ms
+ 2  macomnet-lgw.Moscow.gldn.net (195.239.11.229)  0.905 ms  0.871 ms  0.930 ms
+ 3  br02.ams1.tfbnw.net (195.69.145.164)  52.122 ms  47.765 ms  47.812 ms
+ 4  ae2.bb02.ams2.tfbnw.net (31.13.29.92)  47.777 ms  62.297 ms  47.644 ms
+ 5  ae8.bb01.lhr2.tfbnw.net (74.119.78.231)  56.057 ms ae3.bb02.lhr2.tfbnw.net (31.13.30.131)  60.459 ms  60.825 ms
+ 6  be5.bb02.dca1.tfbnw.net (31.13.30.236)  143.044 ms  142.569 ms  147.233 ms
+ 7  ae9.bb01.frc1.tfbnw.net (31.13.31.5)  153.776 ms ae13.bb03.frc1.tfbnw.net (31.13.31.249)  150.856 ms  154.686 ms
+ 8  ae2.dr01.frc1.tfbnw.net (31.13.24.17)  147.101 ms ae40.dr01.frc1.tfbnw.net (31.13.27.67)  142.566 ms ae4.dr04.frc1.tfbnw.net (31.13.27.73)  142.452 ms
+ 9  * * *
+10  * * *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  142.288 ms  146.641 ms  142.521 ms
+
+Romania
+ 1  unknown.fiberdata.ro (89.47.38.129)  0.539 ms  0.776 ms  1.010 ms
+ 2  178.21.123.201 (178.21.123.201)  1.994 ms  2.014 ms  2.053 ms
+ 3  ten-9-1-v89.buc-brad-core01.ipv4.directone.ro (193.106.45.38)  7.221 ms  7.324 ms  7.370 ms
+ 4  83.217.231.2 (83.217.231.2)  7.240 ms  7.356 ms  7.389 ms
+ 5  83.217.231.1 (83.217.231.1)  8.172 ms  8.169 ms  8.276 ms
+ 6  ae-6.r02.frnkge03.de.bb.gin.ntt.net (129.250.3.188)  125.843 ms ae-9.r02.frnkge04.de.bb.gin.ntt.net (129.250.3.234)  125.987 ms ae-6.r02.frnkge03.de.bb.gin.ntt.net (129.250.3.188)  128.474 ms
+ 7  ae-2.r20.frnkge04.de.bb.gin.ntt.net (129.250.5.217)  36.216 ms ae-3.r20.frnkge04.de.bb.gin.ntt.net (129.250.3.93)  40.422 ms ae-2.r20.frnkge04.de.bb.gin.ntt.net (129.250.5.217)  40.179 ms
+ 8  ae-1.r21.asbnva02.us.bb.gin.ntt.net (129.250.3.20)  139.354 ms  139.264 ms  139.217 ms
+ 9  ae-2.r00.asbnva02.us.bb.gin.ntt.net (129.250.3.114)  125.775 ms ae-2.r04.asbnva02.us.bb.gin.ntt.net (129.250.4.207)  139.606 ms  132.545 ms
+10  ae-0.facebook.asbnva02.us.bb.gin.ntt.net (168.143.97.118)  135.117 ms ae-1.facebook.asbnva02.us.bb.gin.ntt.net (168.143.105.18)  124.037 ms  126.795 ms
+11  ae11.bb01.iad1.tfbnw.net (74.119.78.68)  130.254 ms  128.378 ms ae2.bb02.iad2.tfbnw.net (74.119.77.148)  130.549 ms
+12  ae8.bb01.frc1.tfbnw.net (31.13.24.32)  139.863 ms  145.673 ms ae8.bb04.frc1.tfbnw.net (31.13.24.95)  142.071 ms
+13  ae1.dr02.frc1.tfbnw.net (31.13.24.19)  136.841 ms ae1.dr03.frc1.tfbnw.net (31.13.27.76)  140.955 ms  140.867 ms
+14  * * *
+15  * * *
+16  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  133.574 ms  136.008 ms  140.600 ms
+
+Portugal
+ 1  94.46.248.46 (94.46.248.46)  0.610 ms  1.064 ms  1.055 ms
+ 2  94.46.143.61 (94.46.143.61)  1.644 ms  1.657 ms  1.647 ms
+ 3  cr1-mad.r.nfsi.pt (81.92.220.6)  28.400 ms  28.407 ms  28.968 ms
+ 4  ge-0-0-0-2.r01.mdrdsp03.es.bb.gin.ntt.net (62.73.183.105)  22.022 ms  22.027 ms  22.493 ms
+ 5  ae-6.r23.londen03.uk.bb.gin.ntt.net (129.250.4.137)  46.582 ms  46.576 ms  48.547 ms
+ 6  ae-0.r22.londen03.uk.bb.gin.ntt.net (129.250.4.85)  44.602 ms  43.488 ms  63.522 ms
+ 7  ae-4.r22.nycmny01.us.bb.gin.ntt.net (129.250.3.126)  113.180 ms  120.015 ms  120.648 ms
+ 8  ae-0.r23.nycmny01.us.bb.gin.ntt.net (129.250.3.73)  138.408 ms  135.053 ms  135.146 ms
+ 9  ae-1.r20.asbnva02.us.bb.gin.ntt.net (129.250.2.9)  136.785 ms  127.371 ms  139.211 ms
+10  ae-1.r00.asbnva02.us.bb.gin.ntt.net (129.250.3.110)  131.964 ms ae-1.r04.asbnva02.us.bb.gin.ntt.net (129.250.3.17)  120.112 ms ae-1.r00.asbnva02.us.bb.gin.ntt.net (129.250.3.110)  132.655 ms
+11  ae-0.facebook.asbnva02.us.bb.gin.ntt.net (168.143.97.118)  129.965 ms ae-1.facebook.asbnva02.us.bb.gin.ntt.net (168.143.105.18)  132.290 ms ae-0.facebook.asbnva02.us.bb.gin.ntt.net (168.143.97.118)  131.935 ms
+12  ae11.bb01.iad1.tfbnw.net (74.119.78.68)  133.279 ms ae2.bb02.iad2.tfbnw.net (74.119.77.148)  127.539 ms ae2.bb01.iad2.tfbnw.net (204.15.20.88)  130.047 ms
+13  ae9.bb04.frc1.tfbnw.net (31.13.24.86)  133.647 ms ae8.bb01.frc1.tfbnw.net (31.13.24.32)  147.244 ms ae4.bb02.frc1.tfbnw.net (31.13.24.38)  155.874 ms
+14  ae2.dr02.frc1.tfbnw.net (31.13.24.21)  134.165 ms  130.483 ms ae1.dr04.frc1.tfbnw.net (31.13.27.80)  149.339 ms
+15  * * *
+16  * * *
+17  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  144.315 ms  142.118 ms  134.037 ms
+
+Poland
+ 2  217.153.235.185 (217.153.235.185)  0.622 ms  0.550 ms  0.620 ms
+ 3  taro-dbp1-so-0-0-0-0.net.ipartners.pl (157.25.4.237)  0.599 ms  0.666 ms taro-dbp2-so-0-0-0-0.net.ipartners.pl (157.25.4.246)  0.662 ms
+ 4  157.25.248.222 (157.25.248.222)  2.975 ms 157.25.248.218 (157.25.248.218)  0.599 ms  0.637 ms
+ 5  157.25.248.114 (157.25.248.114)  0.453 ms 157.25.248.118 (157.25.248.118)  0.420 ms 157.25.248.114 (157.25.248.114)  0.436 ms
+ 6  195.39.208.221 (195.39.208.221)  22.291 ms  22.271 ms  22.278 ms
+ 7  ae1.br01.fra1.tfbnw.net (80.81.194.40)  18.155 ms  17.763 ms  17.740 ms
+ 8  ae1.bb02.fra2.tfbnw.net (31.13.27.205)  18.103 ms ae1.bb01.fra2.tfbnw.net (31.13.27.203)  18.406 ms  18.412 ms
+ 9  ae8.bb01.cdg1.tfbnw.net (74.119.78.112)  41.672 ms ae8.bb02.cdg1.tfbnw.net (74.119.78.118)  41.654 ms ae8.bb01.cdg1.tfbnw.net (74.119.78.112)  41.634 ms
+10  ae7.bb01.lga1.tfbnw.net (31.13.30.92)  112.793 ms ae6.bb01.lga1.tfbnw.net (204.15.23.17)  113.784 ms  112.792 ms
+11  ae18.bb01.iad1.tfbnw.net (204.15.20.128)  136.696 ms ae15.bb01.iad2.tfbnw.net (74.119.77.85)  113.324 ms ae18.bb01.iad1.tfbnw.net (204.15.20.128)  124.684 ms
+12  ae9.bb04.frc1.tfbnw.net (31.13.24.86)  165.175 ms ae8.bb01.frc1.tfbnw.net (31.13.24.32)  131.957 ms  132.019 ms
+13  ae1.dr02.frc1.tfbnw.net (31.13.24.19)  126.612 ms ae40.dr02.frc1.tfbnw.net (31.13.27.69)  145.007 ms  123.994 ms
+14  * * *
+15  * * *
+16  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  123.088 ms  123.323 ms  123.934 ms
+
+Pakistan
+ 1  FE-3-0-100M-CORE.nexlinx.net.pk (202.59.80.2)  0.622 ms   1.081 ms   1.247 ms
+ 2  10.10.80.4 (10.10.80.4)  1.608 ms   1.180 ms   0.986 ms
+ 3  lhr63.pie.net.pk (202.125.143.149)  23.447 ms   23.390 ms   22.314 ms
+ 4  rwp44.pie.net.pk (221.120.252.225)  3.874 ms   6.141 ms   5.068 ms
+ 5  rwp44.pie.net.pk (221.120.254.42)  27.206 ms   26.526 ms   25.451 ms
+ 6  static.khi77.pie.net.pk (202.125.128.170)  26.553 ms   25.481 ms   25.368 ms
+ 7  pos0-2-5-0.palermo17.pal.seabone.net (195.22.198.204)  126.849 ms   125.777 ms   124.701 ms
+ 8  xe-0-2-1.miami15.mia.seabone.net (195.22.199.99)  278.963 ms   279.073 ms   279.438 ms
+ 9  facebook.miami15.mia.seabone.net (89.221.41.81)  311.432 ms   311.063 ms   325.255 ms
+10  ae7.bb01.atl1.tfbnw.net (204.15.23.216)  303.199 ms   303.070 ms   303.491 ms
+11  ae7.bb01.frc1.tfbnw.net (31.13.24.30)  327.824 ms ae8.bb03.frc1.tfbnw.net (31.13.24.88)  327.844 ms ae16.bb01.frc1.tfbnw.net (31.13.27.118)  326.119 ms
+12  ae39.dr02.frc1.tfbnw.net (31.13.27.57)  327.337 ms   326.658 ms   326.477 ms
+13  * * *
+14  * * *
+15  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  318.729 ms   309.878 ms   308.246 ms
+
+The Netherlands
+ 1  v867.router1.dcg.transip.net (80.69.67.220)  0.146 ms 
+ 2  br01.ams1.tfbnw.net (195.69.145.115)  0.657 ms 
+ 3  ae1.bb01.ams2.tfbnw.net (31.13.29.86)  0.966 ms 
+ 4  ae10.bb02.lhr2.tfbnw.net (74.119.78.225)  8.133 ms 
+ 5  be5.bb02.dca1.tfbnw.net (31.13.30.236)  96.036 ms 
+ 6  ae13.bb04.frc1.tfbnw.net (204.15.20.75)  101.465 ms 
+ 7  ae4.dr04.frc1.tfbnw.net (31.13.27.73)  95.758 ms 
+ 8  * 
+ 9  * 
+10  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  95.146 ms 
+
+Luxembourg
+ 1  FMC_SCHNADT_ROUTER (80.92.66.1)  0.265 ms  0.269 ms  0.285 ms
+ 2  80-92-83-199.ip.dclux.com (80.92.83.199)  0.207 ms  0.179 ms  0.173 ms
+ 3  80-92-83-193.ip.dclux.com (80.92.83.193)  0.476 ms  0.477 ms  0.458 ms
+ 4  Port-c.410.asr1.AMS2.gblx.net (64.208.205.149)  4.200 ms  4.229 ms  4.247 ms
+ 5  xe5-0-2-10G.scr3.AMS2.gblx.net (67.17.71.213)  8.489 ms xe5-0-2-10G.scr4.AMS2.gblx.net (67.17.71.217)  14.926 ms xe5-0-2-10G.scr3.AMS2.gblx.net (67.17.71.213)  8.472 ms
+ 6  xe0-3-2-10G.scr3.WDC2.gblx.net (67.16.166.166)  86.768 ms xe0-3-2-10G.scr4.WDC2.gblx.net (67.16.166.194)  93.807 ms  93.810 ms
+ 7  lag3.csr2.DCA3.gblx.net (67.16.166.234)  87.576 ms  91.248 ms lag14.csr2.DCA3.gblx.net (67.16.166.250)  91.129 ms
+ 8  FACEBOOK-INC.ethernet12-1.csr1.DCA3.gblx.net (64.215.81.234)  85.975 ms  89.531 ms  142.816 ms
+ 9  ae11.bb01.iad1.tfbnw.net (74.119.78.68)  89.632 ms  86.046 ms ae3.bb02.iad1.tfbnw.net (74.119.78.60)  89.897 ms
+10  ae8.bb01.frc1.tfbnw.net (31.13.24.32)  107.901 ms  107.999 ms  107.950 ms
+11  ae1.dr03.frc1.tfbnw.net (31.13.27.76)  100.204 ms ae1.dr01.frc1.tfbnw.net (31.13.24.15)  102.455 ms ae4.dr03.frc1.tfbnw.net (31.13.27.71)  96.915 ms
+12  * * *
+13  * * *
+14  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  96.585 ms  100.117 ms  96.232 ms
+
+Lithuania
+1 84.15.6.170 4 msec 84.15.6.214 0 msec 84.15.6.170 0 msec
+2 80.150.171.57 [AS 3320] 28 msec 28 msec 24 msec
+3 f-ed5-i.F.DE.NET.DTAG.DE (217.5.95.26) [AS 3320] 28 msec f-ed5-i.F.DE.NET.DTAG.DE (217.5.95.22) [AS 3320] 28 msec f-ed5-i.F.DE.NET.DTAG.DE (217.5.95.26) [AS 3320] 28 msec
+4 80.157.128.166 [AS 3320] 28 msec 28 msec 28 msec
+5 ae1.bb01.fra2.tfbnw.net (31.13.27.203) [AS 32934] [MPLS: Label 537806 Exp 2] 28 msec 28 msec 28 msec
+6 ae8.bb01.cdg1.tfbnw.net (74.119.78.112) [AS 32934] [MPLS: Label 406313 Exp 2] 44 msec 44 msec ae8.bb02.cdg1.tfbnw.net (74.119.78.118) [AS 32934] [MPLS: Label 479675 Exp 2] 48 msec
+7 ae6.bb01.lga1.tfbnw.net (204.15.23.17) [AS 32934] [MPLS: Label 690742 Exp 2] 116 msec 116 msec ae7.bb01.lga1.tfbnw.net (31.13.30.92) [AS 32934] [MPLS: Label 695910 Exp 2] 116 msec
+8 ae18.bb01.iad1.tfbnw.net (204.15.20.128) [AS 32934] [MPLS: Label 742057 Exp 2] 116 msec 116 msec 116 msec
+9 ae8.bb01.frc1.tfbnw.net (31.13.24.32) [AS 32934] [MPLS: Label 490521 Exp 2] 140 msec ae9.bb04.frc1.tfbnw.net (31.13.24.86) [AS 32934] [MPLS: Label 586855 Exp 2] 140 msec ae8.bb01.frc1.tfbnw.net (31.13.24.32) [AS 32934] [MPLS: Label 482697 Exp 2] 136 msec
+10 ae2.dr04.frc1.tfbnw.net (31.13.27.82) [AS 32934] 128 msec ae40.dr01.frc1.tfbnw.net (31.13.27.67) [AS 32934] 128 msec ae4.dr04.frc1.tfbnw.net (31.13.27.73) [AS 32934] 124 msec
+11 * * *
+12 * * *
+13 edge-star-shv-13-frc1.facebook.com (173.252.110.27) [AS 32934] 124 msec 128 msec 124 msec
+
+Latvia
+ 1  sgw-core3 (80.232.169.1) 36 bytes to 195.122.14.106  0.589 ms
+ 2  195.122.0.42 (195.122.0.42) 36 bytes to 195.122.14.106  10.890 ms
+ 3  br01.ams1.tfbnw.net (195.69.145.115) 36 bytes to 195.122.14.106  29.189 ms
+ 4  ae1.bb01.ams2.tfbnw.net (31.13.29.86) 148 bytes to 195.122.14.106  29.775 ms
+ 5  ae10.bb02.lhr2.tfbnw.net (74.119.78.225) 148 bytes to 195.122.14.106  37.023 ms
+ 6  be5.bb02.dca1.tfbnw.net (31.13.30.236) 148 bytes to 195.122.14.106  124.242 ms
+ 7  ae13.bb04.frc1.tfbnw.net (204.15.20.75) 148 bytes to 195.122.14.106  131.421 ms
+ 8  ae4.dr04.frc1.tfbnw.net (31.13.27.73) 36 bytes to 195.122.14.106  137.720 ms
+ 9  *
+10  *
+11  edge-star-shv-13-frc1.facebook.com (173.252.110.27) 40 bytes to 195.122.14.106  123.457 ms
+
+Kyrgyzstan
+1 sw02 (212.42.96.51) 0.769 ms 2.651 ms 1.568 ms [0% loss] 
+2 R76 (212.42.96.80) 0.284 ms 0.270 ms 0.263 ms [0% loss] 
+3 195.218.197.85 (195.218.197.85) 56.187 ms 56.141 ms 56.157 ms [0% loss] 
+4 mx01.Stockholm.gldn.net (79.104.235.70) 74.017 ms 78.479 ms 118.137 ms [0% loss] 
+5 br02.ams1.tfbnw.net (195.69.145.164) 99.388 ms 99.543 ms 99.502 ms [0% loss] 
+6 ae2.bb02.ams2.tfbnw.net (31.13.29.92) 99.878 ms 101.484 ms 99.821 ms [0% loss] 
+7 ae3.bb02.lhr2.tfbnw.net (31.13.30.131) 108.857 ms 108.807 ms 108.903 ms [0% loss] 
+8 be5.bb02.dca1.tfbnw.net (31.13.30.236) 195.340 ms 195.200 ms 195.323 ms [0% loss] 
+9 ae13.bb04.frc1.tfbnw.net (204.15.20.75) 201.824 ms 202.078 ms 201.709 ms [0% loss] 
+10 ae4.dr03.frc1.tfbnw.net (31.13.27.71) 194.257 ms 194.156 ms 194.131 ms [0% loss] 
+11 * * * [100% loss] 
+12 * * * [100% loss] 
+13 edge-star-shv-13-frc1.facebook.com (173.252.110.27) 195.463 ms 195.246 ms 196.096 ms [0% loss]
+
+Japan
+ 1  [AS4685] hirnij31.asahi-net.or.jp (124.155.65.228)  2.626 ms  2.653 ms  1.693 ms
+ 2  [AS4685] hirnirb-ge0.asahi-net.or.jp (124.155.65.254)  2.576 ms  2.902 ms  2.690 ms
+ 3  [AS4685] tkybi5-v9.asahi-net.or.jp (124.155.64.1)  14.602 ms  14.816 ms  14.699 ms
+ 4  [AS4685] kddni3.asahi-net.or.jp (202.224.32.56)  15.663 ms  15.501 ms  15.667 ms
+ 5  [AS2516] 125.29.26.105 (125.29.26.105)  15.665 ms  101.412 ms  15.608 ms
+ 6  [AS2516] otejbb205.int-gw.kddi.ne.jp (118.155.197.129)  45.764 ms   [AS2516] otejbb206.int-gw.kddi.ne.jp (118.155.197.130)  15.600 ms    [AS2516] otejbb205.int-gw.kddi.ne.jp (118.155.197.129)  16.488 ms
+ 7  [AS2516] ix-ote203.int-gw.kddi.ne.jp (106.187.6.34)  16.357 ms    [AS2516] ix-ote203.int-gw.kddi.ne.jp (106.187.6.30)  101.040 ms    [AS2516] ix-ote203.int-gw.kddi.ne.jp (106.187.6.26)  101.107 ms
+ 8  [AS2516] 203.181.102.18 (203.181.102.18)  16.804 ms  17.057 ms  16.150 ms
+ 9  [AS32934] be5.bb01.pdx1.tfbnw.net (31.13.27.130)  177.739 ms  178.315 ms  176.520 ms
+10  [AS32934] ae29.bb01.prn1.tfbnw.net (204.15.23.215)  125.907 ms  125.261 ms    [AS32934] ae19.bb05.prn1.tfbnw.net (204.15.23.43)  125.521 ms
+11  [AS32934] ae7.bb03.frc1.tfbnw.net (31.13.31.160)  181.583 ms    [AS32934] ae14.bb01.frc1.tfbnw.net (31.13.31.140)  181.135 ms  179.167 ms
+12  [AS32934] ae3.dr03.frc1.tfbnw.net (31.13.27.59)  175.866 ms    [AS32934] ae1.dr02.frc1.tfbnw.net (31.13.24.19)  175.330 ms    [AS32934] ae3.dr03.frc1.tfbnw.net (31.13.27.59)  194.154 ms
+13  * * *
+14  * * *
+15  [AS32934] edge-star-shv-13-frc1.facebook.com (173.252.110.27)  176.097 ms  176.140 ms  174.853 ms
+
+Italy
+1	85.94.212.9	0.351 ms	-
+2	gi2-0.archer.fro.seeweb.it (212.25.160.3)	0.526 ms	-
+3	ge-1-1-0-42.worf.rom.seeweb.it (85.94.223.199)	9.056 ms	--
+4	br02.ams1.tfbnw.net (195.69.145.164)	25.776 ms	-----
+5	ae2.bb01.ams2.tfbnw.net (31.13.29.88)	26.418 ms	------
+6	ae10.bb02.lhr2.tfbnw.net (74.119.78.225)	33.809 ms	-------
+7	be5.bb02.dca1.tfbnw.net (31.13.30.236)	120.766 ms	------------------------
+8	ae13.bb04.frc1.tfbnw.net (204.15.20.75)	128.335 ms	--------------------------
+9	ae40.dr02.frc1.tfbnw.net (31.13.27.69)	120.467 ms	------------------------
+15	edge-star-shv-13-frc1.facebook.com (173.252.110.27)
+
+Indonesia
+1  gx-kmi-c0fe.mdn.nusa.net.id (202.162.192.254)  0.109 ms  0.084 ms  0.093 ms
+ 2  gw.nusa.net.id (202.162.199.238)  0.147 ms  0.155 ms  0.207 ms
+ 3  124.195.60.121 (124.195.60.121)  1.400 ms  1.516 ms  1.656 ms
+ 4  124.195.111.250 (124.195.111.250)  29.104 ms  29.097 ms  29.088 ms
+ 5  114.0.12.121 (114.0.12.121)  29.042 ms  29.047 ms 114.0.12.9 (114.0.12.9)  29.315 ms
+ 6  CXP1-kpi.ge-1-2-8.kpi.CXCR01-inp.Jakarta.Indosat.com (202.93.44.33)  29.311 ms  33.639 ms  33.637 ms
+ 7  CXCR01-inp.xe-0-0-0.kpi.CXCR02-inp.Jakarta.Indosat.com (114.4.19.2)  30.502 ms  30.558 ms  34.578 ms
+ 8  CXCR02-inp.te-0-0-0.gsw.CXNode1.Singapore.Indosat.com (114.4.19.18)  63.986 ms  63.633 ms  63.948 ms
+ 9  CXNode1-gsw.xe-5-0-0.eqx.JNode1.Singapore.Indosat.com (114.4.19.38)  39.356 ms  40.530 ms  40.529 ms
+10  114.4.19.102 (114.4.19.102)  31.399 ms  31.411 ms  31.400 ms
+11  xe-2-2-1.pr01.sin1.tfbnw.net (103.4.97.25)  31.504 ms  31.503 ms  31.478 ms
+12  ae11.bb01.sin1.tfbnw.net (31.13.28.146)  32.150 ms  30.594 ms  30.586 ms
+13  ae10.bb02.sin1.tfbnw.net (31.13.28.139)  33.852 ms  33.842 ms  33.833 ms
+14  ae6.bb02.lax1.tfbnw.net (204.15.20.79)  195.993 ms  195.997 ms  195.979 ms
+15  ae13.bb02.atl1.tfbnw.net (31.13.28.111)  247.376 ms  241.180 ms  239.128 ms
+16  ae16.bb01.frc1.tfbnw.net (31.13.27.118)  247.167 ms ae7.bb02.frc1.tfbnw.net (31.13.24.44)  245.813 ms ae16.bb01.frc1.tfbnw.net (31.13.27.118)  245.671 ms
+17  ae1.dr04.frc1.tfbnw.net (31.13.27.80)  245.665 ms ae2.dr04.frc1.tfbnw.net (31.13.27.82)  242.413 ms ae39.dr02.frc1.tfbnw.net (31.13.27.57)  260.416 ms
+18  * * *
+19  * * *
+20  edge-star-shv-13-frc1.facebook.com (173.252.110.27)  244.339 ms  247.918 ms  245.917 ms  
+
+
+
+
